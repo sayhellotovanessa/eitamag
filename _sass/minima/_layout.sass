@@ -2,6 +2,7 @@ body
   background: url(/assets/olga.jpg) fixed;
   background-repeat: no-repeat;
   background-size: cover;
+  background-position-x: center
 
   
 .site-header
@@ -13,11 +14,16 @@ body
   position: absolute
   width: 100%
   top: 40%
-  a, a:visited
+  a
     color: $vibrant-color
+    
 
+    
   +media-query($on-palm)
     min-height: 0
+    position: 
+    transform: none
+    top: 0
 
 .homepage-banner
   +media-query($on-palm)
@@ -51,12 +57,9 @@ body
   line-height: $base-line-height * $base-font-size * 2.25
   letter-spacing: 1px
   margin-bottom: 0
-  color: $vibrant-color;
-  a
+  +media-query($on-palm)
+    color: red
 
-  &,
-  &:visited
-    color: $text-color
 
 .site-nav
   line-height: $base-line-height * $base-font-size * 2.25
@@ -79,6 +82,7 @@ body
     &:not(:last-child)
       margin-right: 20px
 
+  // Media query for mobile
   +media-query($on-palm)
     position: fixed
     top: 9px
@@ -120,10 +124,15 @@ body
       padding: 5px 10px
       min-height: 40px
       border-bottom: 1px solid black
+      +media-query($on-palm)
+        color: black
 
-
+      
+      
       &:not(:last-child)
         margin-right: 0
+        
+        
 
       margin-left: 20px
 
@@ -206,6 +215,9 @@ body
 
 .post-list-heading
   +relative-font-size(5)
+
+  +media-query($on-palm)
+    +relative-font-size(3)
 
 .post-list
   margin-left: 0
