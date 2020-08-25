@@ -194,6 +194,9 @@ body
 .page-content
   padding: $spacing-unit 0
   flex: 1
+  min-height: 680px
+  +media-query($on-palm)
+    min-height: 420px
 
 .page-heading
   +relative-font-size(2)
@@ -204,7 +207,7 @@ body
   color: $grey-color-light
 
 .post-list-heading
-  +relative-font-size(5)
+  +relative-font-size(3)
   letter-spacing: 2px
   text-shadow: 1px 1px 2px #ef0f38
 
