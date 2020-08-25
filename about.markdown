@@ -7,5 +7,4 @@ revealing the trends of fantastic contemporary fiction, and releasing Brazilian 
 ---
 
 Eita! Magazine is coming soon. 
-
 We will be open to submissions on 22nd of September of 2020.
