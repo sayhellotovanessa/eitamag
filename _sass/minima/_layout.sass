@@ -1,0 +1,270 @@
+body 
+  background: url(/assets/olga.jpg) fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  
+.site-header
+  min-height: 0
+  font-family: $titles-font
+  +relative-font-size(2.21)
+  letter-spacing: 2px
+  transform: rotate(-6deg);
+  position: absolute
+  width: 100%
+  top: 40%
+  a, a:visited
+    color: $vibrant-color
+
+  +media-query($on-palm)
+    min-height: 0
+
+.homepage-banner
+  +media-query($on-palm)
+    background-repeat: no-repeat
+    background-size: cover
+    min-height: 250px
+
+#fixed-top
+  background: black
+  .main-menu
+    display: flex
+    justify-content: space-between
+    max-width: calc(1200px - (30px * 2))
+    margin-right: auto
+    margin-left: auto
+    padding-right: 30px
+    padding-left: 30px
+
+
+.sticky
+  position: fixed
+  top: 0
+  left: 0
+  right: 0
+
+
+.site-title
+  +relative-font-size(3)
+  letter-spacing: 1px
+  font-weight: 300
+  line-height: $base-line-height * $base-font-size * 2.25
+  letter-spacing: 1px
+  margin-bottom: 0
+  color: $vibrant-color;
+  a
+
+  &,
+  &:visited
+    color: $text-color
+
+.site-nav
+  line-height: $base-line-height * $base-font-size * 2.25
+  letter-spacing: 1px
+
+  .nav-trigger
+    display: none
+
+  .menu-icon
+    display: none
+
+  .page-link
+    line-height: $base-line-height
+    padding: 5px
+    a, a:visited
+      color: $text-color
+      background-color: $vibrant-color
+
+    // Gaps between nav items, but not on the last one
+    &:not(:last-child)
+      margin-right: 20px
+
+  +media-query($on-palm)
+    position: fixed
+    top: 9px
+    right: $spacing-unit / 2
+    background-color: $vibrant-color
+    border: 1px solid $text-color
+    text-align: right
+
+    label[for="nav-trigger"]
+      display: block
+      float: right
+      width: 40px
+      height: 40px
+      z-index: 2
+      cursor: pointer
+
+    .menu-icon
+      display: block
+      float: right
+      width: 40px
+      height: 40px
+      line-height: 0
+      padding-top: 15px
+      text-align: center
+
+      > svg
+        fill: $grey-color-dark
+
+    input ~ .trigger
+      clear: both
+      display: none
+
+    input:checked ~ .trigger
+      display: block
+      padding-bottom: 5px
+
+    .page-link
+      display: block
+      padding: 5px 10px
+      min-height: 40px
+      border-bottom: 1px solid black
+
+
+      &:not(:last-child)
+        margin-right: 0
+
+      margin-left: 20px
+
+.site-footer
+  border-top: 1px solid $grey-color-light
+  padding: $spacing-unit 0
+  background: $text-color
+
+.footer-heading
+  +relative-font-size(1.125)
+
+  margin-bottom: $spacing-unit / 2
+
+.contact-list,
+.social-media-list
+  list-style: none
+  margin-left: 0
+
+.footer-col-wrapper
+  +relative-font-size(0.9375)
+
+  color: $grey-color
+  margin-left: -$spacing-unit / 2
+
+  @extend %clearfix
+
+.footer-col
+  float: left
+  margin-bottom: $spacing-unit / 2
+  padding-left: $spacing-unit / 2
+
+.footer-col-1
+  width: -webkit-calc(35% - (#{$spacing-unit} / 2))
+  width: calc(35% - (#{$spacing-unit} / 2))
+
+.footer-col-2
+  width: -webkit-calc(20% - (#{$spacing-unit} / 2))
+  width: calc(20% - (#{$spacing-unit} / 2))
+
+.footer-col-3
+  width: -webkit-calc(45% - (#{$spacing-unit} / 2))
+  width: calc(45% - (#{$spacing-unit} / 2))
+
++media-query($on-laptop)
+  .footer-col-1,
+  .footer-col-2
+    width: -webkit-calc(50% - (#{$spacing-unit} / 2))
+    width: calc(50% - (#{$spacing-unit} / 2))
+
+  .footer-col-3
+    width: -webkit-calc(100% - (#{$spacing-unit} / 2))
+    width: calc(100% - (#{$spacing-unit} / 2))
+
+
++media-query($on-palm)
+  .footer-col
+    float: none
+    width: -webkit-calc(100% - (#{$spacing-unit} / 2))
+    width: calc(100% - (#{$spacing-unit} / 2))
+
+//Page content - home and category
+
+.post-list-heading
+  text-align: center
+
+//Page
+
+.page-content
+  padding: $spacing-unit 0
+  flex: 1
+
+.page-heading
+  +relative-font-size(2)
+
+.page-highlight
+  padding: 20px
+  background: $text-color
+  color: $grey-color-light
+  text-indent: 20px
+
+.post-list-heading
+  +relative-font-size(5)
+
+.post-list
+  margin-left: 0
+  list-style: none
+  display: grid
+  grid-template-columns: 30% 30% 30%
+  grid-gap: 50px
+
+  +media-query($on-palm)
+    grid-template-columns: none
+    grid-template-rows: none
+    grid-gap: 10px
+
+
+  > li
+    margin-bottom: $spacing-unit
+
+.post-meta
+  font-size: $small-font-size
+  color: $grey-color
+
+.post-link
+  display: block
+  span
+    background-color: black
+    padding: 4px
+
+  +relative-font-size(1.5)
+
+
+.post-header
+  margin-bottom: $spacing-unit
+
+.post-title
+  +relative-font-size(2.625)
+
+  letter-spacing: -1px
+  line-height: 1
+
+  +media-query($on-laptop)
+    +relative-font-size(2.25)
+
+.post-content
+  margin-bottom: $spacing-unit
+
+  h2
+    +relative-font-size(2)
+
+    +media-query($on-laptop)
+      +relative-font-size(1.75)
+
+  h3
+    +relative-font-size(1.625)
+
+    +media-query($on-laptop)
+      +relative-font-size(1.375)
+
+  h4
+    +relative-font-size(1.25)
+
+    +media-query($on-laptop)
+      +relative-font-size(1.125)
