@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
+title: More about the project
 permalink: /about/
 resumo: "A fantastical Brazilian tales compendium"
 ---
 
-Eita! Magazine rises from the dreams of seven Brazilian authors blablabla.
+Eita! Magazine is coming soon.

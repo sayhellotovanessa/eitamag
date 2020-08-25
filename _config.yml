@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Eita Magazine
+title: Eita! Magazine
 email: eitamagazinebr@gmail.com
 description: >- 
   Brazilian science fiction & fantasy magazine in English.
@@ -27,6 +27,7 @@ description: >-
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: EitaMagazine
+instagram_username: EitaMagazine
 
 # Build settings
 theme: minima

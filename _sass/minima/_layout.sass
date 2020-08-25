@@ -10,10 +10,7 @@ body
   font-family: $titles-font
   +relative-font-size(2.21)
   letter-spacing: 2px
-  transform: rotate(-6deg);
-  position: absolute
-  width: 100%
-  top: 40%
+
   a
     color: $vibrant-color
     
@@ -25,11 +22,6 @@ body
     transform: none
     top: 0
 
-.homepage-banner
-  +media-query($on-palm)
-    background-repeat: no-repeat
-    background-size: cover
-    min-height: 250px
 
 #fixed-top
   background: black
@@ -121,9 +113,7 @@ body
 
     .page-link
       display: block
-      padding: 5px 10px
       min-height: 40px
-      border-bottom: 1px solid black
       +media-query($on-palm)
         color: black
 
@@ -216,6 +206,9 @@ body
 
 .post-list-heading
   +relative-font-size(5)
+  letter-spacing: 2px
+  text-shadow: 1px 1px 2px #ef0f38
+
 
   +media-query($on-palm)
     +relative-font-size(3)
