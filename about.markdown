@@ -6,4 +6,4 @@ resumo: "Eita! Magazine was created to disseminate the production of SFF Brazili
 revealing the trends of fantastic contemporary fiction, and releasing Brazilian works to the anglophone literary market."
 ---
 
-Eita! Magazine is coming soon. We will be open to submissions on 15th of September of 2020.
+Eita! Magazine is coming soon. We will be open to submissions on 17th of September of 2020.
