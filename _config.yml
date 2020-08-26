@@ -24,8 +24,8 @@ description: >-
   Brazilian science fiction & fantasy magazine in English.
 
 
-baseurl: "eitamag" # the subpath of your site, e.g. /blog
-url: "https://sayhellotovanessa.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://eitamagazine.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: EitaMagazine
 #instagram_username: EitaMag
 
