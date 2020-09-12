@@ -1,9 +1,5 @@
 body 
-  background: url(olga.jpg) fixed
-  background-repeat: no-repeat
-  background-size: cover
-  background-position-x: center
-  filter: brightness(1.2)
+  background-color: $dark-bg
 
   
 .site-header
@@ -12,8 +8,14 @@ body
   +relative-font-size(2.21)
   letter-spacing: 2px
 
+  .site-logo
+    img 
+      border: solid 2px $dark-line
+      border-radius: 50%
+      max-width: 120px
+
   a
-    color: $vibrant-color
+    color: $dark-headings
     
 
     
@@ -28,6 +30,7 @@ body
   .main-menu
     display: flex
     justify-content: space-between
+    max-height: 70px
     max-width: calc(1200px - (30px * 2))
     margin-right: auto
     margin-left: auto
@@ -144,7 +147,7 @@ body
 .footer-col-wrapper
   +relative-font-size(0.9375)
 
-  color: $grey-color
+  color: $dark-text
   margin-left: -$spacing-unit / 2
 
   @extend %clearfix
@@ -185,8 +188,7 @@ body
 
 //Page content - home and category
 
-.post-list-heading
-  text-align: center
+  
 
 //Page
 
@@ -205,6 +207,8 @@ body
 
 .post-list-heading
   +relative-font-size(5)
+  color: $light-headings
+  text-align: left
   letter-spacing: 2px
   text-shadow: 1px 1px 2px #ef0f38
 
