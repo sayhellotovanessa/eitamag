@@ -2,8 +2,7 @@
 layout: page
 title: FAQ
 permalink: /about/faq/
-resumo: "A fantastical Brazilian tales compendium"
-
+type: subpage
 
 
 ---
