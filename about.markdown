@@ -3,7 +3,9 @@ layout: page
 title: About
 permalink: /about/
 type: parent-page
-subpages: faq support
+subpages: 
+    - faq
+    - support
 
 ---
 
