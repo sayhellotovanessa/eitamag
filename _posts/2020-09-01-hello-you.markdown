@@ -1,9 +1,13 @@
 ---
 layout: post
 title:  "Yes. That is it, folks!"
-date:   2019-11-03 22:48:24 +0100
+date:   2020-09-03 22:48:24 +0100
 categories: jekyll update writing
 mode: reading
+author: Fulano de Tal Oliveira
+featured-image: /assets/about.jpg
+featured-image-alt: A scifi landscape
+
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 

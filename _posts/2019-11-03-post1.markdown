@@ -3,6 +3,7 @@ layout: post
 title:  "How to read it"
 date:   2019-11-04 22:48:24 +0100
 categories: EN non-fiction writing
+author: Fulano de Tal Oliveira
 ---
 
 ![Team picture](/assets/about.jpg)

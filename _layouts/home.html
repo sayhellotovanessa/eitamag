@@ -23,6 +23,11 @@ layout: default
             {{ post.title | escape }}
           </a>
         </h3>
+        <p><strong>{{ post.author | escape }}  </strong></p>
+        {%- if post.featured-image -%}
+        <img src="{{ post.featured-image | relative_url }}" alt=" {{ post.featured-image-alt | escape }}">
+        {%- endif -%}
+          
           {{ post.excerpt }}
       </li>
       {% endif %}

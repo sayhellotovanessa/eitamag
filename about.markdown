@@ -1,6 +1,6 @@
 ---
 layout: page
-title: More about the project
+title: About
 permalink: /about/
 resumo: "A fantastical Brazilian tales compendium"
 ---
