@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+top-level-menu: true
 type: parent-page
 subpages: 
     - faq

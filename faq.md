@@ -2,7 +2,7 @@
 layout: page
 title: FAQ
 permalink: /about/faq/
-type: subpage
+parent-page: false
 
 
 ---
