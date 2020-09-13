@@ -11,7 +11,7 @@ You’ll find this post in your `_posts` directory. Go ahead and edit it and re-
 
 Jekyll requires blog post files to be named according to the following format:
 
-![My helpful screenshot](/assets/about.jpg)
+![My helpful screenshot](/assets/lorem.jpg)
 
 `YEAR-MONTH-DAY-title.MARKUP`
 
