@@ -20,7 +20,7 @@ layout: default
           {{ mdate | date: date_format }}
         </time>
       {%- endif -%}
-      
+
       {%- if page.author -%}
         • {% for author in page.author %}
           <span itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -29,6 +29,12 @@ layout: default
         {% endfor %}
       {%- endif -%}</p>
   </header>
+
+  {%- if page.featured-image -%}
+  <div class="post-featured-img">
+    <img src="{{ page.featured-image | relative_url }}" alt=" {{ page.featured-image-alt | escape }}">
+  </div>
+  {%- endif -%}
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
