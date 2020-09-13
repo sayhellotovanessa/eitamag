@@ -2,8 +2,7 @@
 layout: post
 title:  "Yes. That is it, folks!"
 date:   2020-09-03 22:48:24 +0100
-categories: jekyll update writing
-mode: reading
+categories: fiction
 author: Fulano de Tal Oliveira
 featured-image: /assets/lorem.jpg
 featured-image-alt: A scifi landscape

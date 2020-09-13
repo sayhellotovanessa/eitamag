@@ -2,8 +2,8 @@
 layout: post
 title:  "There is a long title here to test a two lined heading"
 date:   2019-11-03 22:48:24 +0100
-categories: jekyll update test writing
-mode: reading
+categories: fiction
+
 ---
 
 

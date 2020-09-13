@@ -1,7 +1,7 @@
 ---
 layout: page 
-title: Teste
-permalink: /teste/
+title: Support us
+permalink: /support/
 ---
 
 Random content.
