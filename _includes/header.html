@@ -37,7 +37,11 @@
                     {%- if my_page.title -%}
                       <li>
                         <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
-
+                        <ul class="submenu">
+                          <li>
+                            <a href="#">New link</a>
+                          </li>
+                        </ul>
                       </li>
                      {%- endif -%}
               {%- endfor -%}
