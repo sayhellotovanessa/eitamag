@@ -11,6 +11,22 @@ subpages:
 
 ---
 
-Sweet roll I love danish pie macaroon cotton candy sweet roll jujubes. Topping marzipan cotton candy pie macaroon brownie gingerbread. Topping tootsie roll sesame snaps. Jelly beans cookie I love I love tart lemon drops jelly beans bear claw. Cotton candy toffee jelly beans chocolate cake wafer. Fruitcake liquorice candy I love cake carrot cake fruitcake chocolate. Brownie donut lollipop dessert toffee I love pie apple pie I love. Sweet gingerbread tart sweet chocolate cake bear claw. I love macaroon gingerbread tart chupa chups. Cookie soufflé candy. Chupa chups pie marzipan brownie. Bonbon pudding I love lemon drops caramels.
+1. **What is Eita! Magazine?**
 
-Marzipan jujubes sesame snaps cookie ice cream powder. Cake pie sesame snaps jelly-o sesame snaps liquorice I love biscuit. Caramels chocolate cake jelly beans donut I love gummi bears ice cream. I love powder jelly chocolate bar pie apple pie macaroon. Carrot cake topping caramels caramels. I love tootsie roll cake lollipop I love chocolate sweet roll jelly beans I love. Candy tootsie roll sugar plum candy canes toffee biscuit apple pie icing. Tootsie roll jelly-o chocolate wafer. Sweet gummi bears oat cake cheesecake. Dessert ice cream candy bonbon I love I love. Powder muffin biscuit pie oat cake. Brownie candy canes ice cream.
+    Eita! is a magazine created to promote Brazilian science fiction and fantasy to a foreign audience, revealing the tendencies of our national SFF works and to insert Brazilian production in the worldwide cultural discussion.
+
+2. **Why is Eita! neccessary?**
+
+    We have a LOT of Brazilian stories to tell, so instead of waiting for someone to translate, recognize and accept our work in the very competitive market of anglophone zines, we’re creating our own space.
+
+3. **What do we expect?**
+
+    We hope to become a bridge to release national authors to the international literary market, encouraging consumption of Brazilian genre literature by an overseas audience.
+
+4. **What is our mission?**
+
+    To serve as the main channel and as a reference of our content.
+
+5. **What is our vision?**
+
+    To create spaces in the English-speaking market for Brazilian SFF writers.
