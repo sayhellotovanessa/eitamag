@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Yes. That is it, folks!"
+title:  "Yes. Our second issue is out"
 date:   2020-09-03 22:48:24 +0100
 categories: fiction
 author: Fulano de Tal Oliveira
