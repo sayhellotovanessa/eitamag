@@ -6,7 +6,8 @@ top-level-menu: true
 type: parent-page
 subpages: 
     - faq
-    - support
+    - team
+    - contact
 
 ---
 
