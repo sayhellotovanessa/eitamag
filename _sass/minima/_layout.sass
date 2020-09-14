@@ -90,7 +90,7 @@ body
     position: fixed
     top: 9px
     right: $spacing-unit / 2
-    background-color: $vibrant-color
+    background-color: $highlight-bg
     border: 1px solid $text-color
     text-align: right
 
@@ -138,12 +138,16 @@ body
       margin-left: 20px
 
 .site-footer
+  background: $highlight-bg
   border-top: 1px solid $grey-color-light
   padding: $spacing-unit 0
+  border-top: 4px solid $dark-line
+  a 
+    color: $light-line
 
 .footer-heading
   +relative-font-size(1.125)
-  color: $vibrant-color
+  color: $dark-text
 
   margin-bottom: $spacing-unit / 2
 
@@ -199,7 +203,7 @@ body
 //Page
 
 .page-content
-  padding: $spacing-unit 0
+  padding: 60px 0 30px
   flex: 1
 
 .page-heading

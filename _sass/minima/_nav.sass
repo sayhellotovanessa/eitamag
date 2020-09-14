@@ -1,6 +1,15 @@
 .submenu
     visibility: hidden
     display: none
+    text-transform: capitalize
+    +media-query($on-palm)
+        visibility: visible
+        position: relative
+        display: block
+
+// li:active ul.submenu, li:active ul.submenu 
+    
+    
 
 li:hover ul.submenu 
     visibility: visible
@@ -12,4 +21,4 @@ li:hover ul.submenu
     li
         a 
             text-transform: capitalize
-    
+
