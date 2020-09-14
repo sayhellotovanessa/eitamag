@@ -11,39 +11,53 @@ layout: default
 
   {%- if site.posts.size > 0 -%}
 
+  
+
     <h2 class="post-list-heading">{{ page.list_title | default: "A fantastical Brazilian tales compendium" }}</h2>
-    <ul class="post-list">
-      {%- for post in site.posts -%}
-      {% if post.categories contains "fiction" %}
-      <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        <p><strong>{{ post.author | escape }}  </strong></p>
-       
-        <div class="post-list-img">
-          {%- if post.featured-image -%}
-          <img src="{{ post.featured-image | relative_url }}" alt=" {{ post.featured-image-alt | escape }}">
-        </div>
-          {%- else -%}
-          <img src="/assets/img-ipsum.png" alt="Imagem fixa">
+      <!-- <ul class="post-list">
+        {%- for post in site.posts -%}
+        {% if post.categories contains "fiction" %}
+        <li>
+          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+          <span class="post-meta">{{ post.date | date: date_format }}</span>
+          <h3>
+            <a class="post-link" href="{{ post.url | relative_url }}">
+              {{ post.title | escape }}
+            </a>
+          </h3>
+          <p><strong>{{ post.author | escape }}  </strong></p>
+        
+          <div class="post-list-img">
+            {%- if post.featured-image -%}
+            <img src="{{ post.featured-image | relative_url }}" alt=" {{ post.featured-image-alt | escape }}">
+          </div>
+            {%- else -%}
+            <img src="/assets/img-ipsum.png" alt="Imagem fixa">
 
-        </div>
-        {%- endif -%}
-          
-          {{ post.excerpt }}
-      </li>
-      {% endif %}
-      {%- endfor -%}
+          </div>
+          {%- endif -%}
+            
+            {{ post.excerpt }}
+        </li>
+        {% endif %}
+        {%- endfor -%}
 
-    </ul>
+      </ul>
 
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p> -->
 
   {%- endif -%}
+
+  <!-- Begin - custom temporary content -->
+  
+
+
+
+  <!-- End - custom temporary content -->
+
+  <img src="/assets/banner.png" alt="Imagem fixa">
+
+  
+  
 
 </div>
