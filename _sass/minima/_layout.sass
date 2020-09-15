@@ -6,19 +6,17 @@ body
 .site-header
   min-height: 0
   font-family: $titles-font
-  +relative-font-size(2.21)
+  +relative-font-size(1.6)
 
   .site-logo
     z-index: 99
     img 
-      border: 3px solid  $dark-line
-      border-radius: 50%
-      max-width: 120px
+      max-width: 200px
     +media-query($on-palm)
      display: none
 
   a
-    color: $dark-headings
+    color: $top-nav-links
     
   
   +media-query($on-palm)
@@ -28,17 +26,17 @@ body
 
 
 #fixed-top
-  background: $light-bg
+  background: $top-nav-bg
   border-bottom: 3px solid $dark-line
   .main-menu
     display: flex
     justify-content: space-between
-    max-height: 70px
+    align-items: center
+    max-height: 120px
     max-width: calc(1200px - (30px * 2))
     margin-right: auto
     margin-left: auto
-    padding-right: 30px
-    padding-left: 30px
+    padding: 20px 30px
 
 
 .sticky
@@ -49,7 +47,7 @@ body
 
 
 .site-title
-  +relative-font-size(3)
+  +relative-font-size(1.8)
    
   font-weight: 300
   line-height: $base-line-height * $base-font-size * 2.25
@@ -61,6 +59,7 @@ body
 
 .site-nav
   ul
+    margin-bottom: 0
     list-style-type: none
     line-height: $base-line-height * $base-font-size * 2.25
     li 
@@ -289,3 +288,7 @@ body
 
     +media-query($on-laptop)
       +relative-font-size(1.125)
+
+  // Not very elegant fixes
+  ul 
+    margin-bottom: 0
