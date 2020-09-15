@@ -3,6 +3,7 @@ layout: page
 title: Support us
 permalink: /support/
 top-level-menu: true
+right: true
 ---
 
 You can support Eita! on [Patreon](https://www.patreon.com/EitaMagSFF)! You can **become a Patreon** for as little as $1 per issue and you’ll already be a part of our very cool Discord channel. Check out the different options with a diverse set of tiers so you can choose the most suitable for you!

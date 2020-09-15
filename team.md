@@ -2,7 +2,8 @@
 layout: page 
 title: Team
 permalink: /about/team/
-parent-page: false
+top-level-menu: true
+left: true
 ---
 
 ![alt text][we]

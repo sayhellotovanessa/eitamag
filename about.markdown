@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 top-level-menu: true
+left: true
 type: parent-page
 subpages: 
     - why

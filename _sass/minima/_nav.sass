@@ -1,3 +1,83 @@
+.site-nav
+  ul
+    margin-bottom: 0
+    list-style-type: none
+    line-height: $base-line-height * $base-font-size * 2.25
+    
+    li 
+      display: inline-block
+      &:first-child
+        margin-right: 80px
+      +media-query($on-palm)
+        display: block
+
+  .nav-trigger
+    display: none
+
+  .menu-icon
+    display: none
+
+  .page-link
+    line-height: $base-line-height
+    padding: 5px
+    a, a:visited
+      color: $text-color
+      background-color: $vibrant-color
+
+    // Gaps between nav items, but not on the last one
+    &:not(:last-child)
+      margin-right: 20px
+
+  // Media query for mobile
+  +media-query($on-palm)
+    position: fixed
+    top: 9px
+    right: $spacing-unit / 2
+    background-color: $highlight-bg
+    border: 1px solid $text-color
+    text-align: right
+
+    label[for="nav-trigger"]
+      display: block
+      float: right
+      width: 40px
+      height: 40px
+      z-index: 2
+      cursor: pointer
+
+    .menu-icon
+      display: block
+      float: right
+      width: 40px
+      height: 40px
+      line-height: 0
+      padding-top: 15px
+      text-align: center
+
+      > svg
+        fill: $grey-color-dark
+
+    input ~ .trigger
+      clear: both
+      display: none
+
+    input:checked ~ .trigger
+      display: block
+      padding-bottom: 5px
+
+    .page-link
+      display: block
+      min-height: 40px
+      +media-query($on-palm)
+        color: black
+
+      
+      
+      &:not(:last-child)
+        margin-right: 10px
+        margin-left: 20px
+
+
 .submenu
     visibility: hidden
     display: none
@@ -9,7 +89,6 @@
 
 // li:active ul.submenu, li:active ul.submenu 
     
-    
 
 li:hover ul.submenu 
     visibility: visible
@@ -17,7 +96,7 @@ li:hover ul.submenu
     display: block
     max-width: 120px
     padding: 10px
-    background: $light-bg
+    background: $top-nav-bg
     li
         a 
-            text-transform: capitalize
+            text-transform: lowercase
