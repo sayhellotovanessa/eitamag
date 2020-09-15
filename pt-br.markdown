@@ -4,6 +4,7 @@ title: PT-BR
 permalink: /pt-br/
 top-level-menu: true
 right: true
+highlight-link: true
 type: parent-page
 subpages: 
     - edital

@@ -58,19 +58,16 @@ body
     color: red
 
 
-
-
 .site-footer
-  background: $highlight-bg
   border-top: 1px solid $grey-color-light
   padding: $spacing-unit 0
-  border-top: 4px solid $dark-line
+  border-top: 4px solid $highlight-bg
   a 
-    color: $light-line
+    color:  $light-headings
 
 .footer-heading
   +relative-font-size(1.125)
-  color: $dark-text
+  color: $light-headings
   margin-bottom: $spacing-unit / 2
 
 .contact-list,
@@ -81,7 +78,7 @@ body
 .footer-col-wrapper
   +relative-font-size(0.9375)
 
-  color: $dark-text
+  color:  $light-headings
   margin-left: -$spacing-unit / 2
 
   @extend %clearfix
