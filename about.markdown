@@ -5,6 +5,7 @@ permalink: /about/
 top-level-menu: true
 type: parent-page
 subpages: 
+    - why
     - team
     - contact
 
