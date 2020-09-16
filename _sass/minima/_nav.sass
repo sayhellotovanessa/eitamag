@@ -3,6 +3,9 @@
     margin-bottom: 0
     list-style-type: none
     line-height: $base-line-height * $base-font-size * 2.25
+    +media-query($on-palm)
+        margin-left: 10px
+        width: auto
     
     li 
       display: inline-block
@@ -20,7 +23,7 @@
 
   .page-link
     line-height: $base-line-height
-    padding: 5px
+    
     a, a:visited
       color: $text-color
       background-color: $vibrant-color
@@ -31,15 +34,16 @@
     &:not(:last-child)
       margin-right: 20px
       padding: 4px
+      +media-query($on-palm)
+        margin-right: 0
 
   // Media query for mobile
   +media-query($on-palm)
-    position: fixed
     top: 9px
     right: $spacing-unit / 2
     background-color: $highlight-bg
-    border: 1px solid $text-color
     text-align: right
+
 
     label[for="nav-trigger"]
       display: block
@@ -72,20 +76,18 @@
     .page-link
       display: block
       min-height: 40px
-      +media-query($on-palm)
-        color: black
 
-      
-      
       &:not(:last-child)
         margin-right: 10px
         margin-left: 20px
+        +media-query($on-palm)
+            margin-right: 0
+            margin-left: 0
 
 
 .submenu
     visibility: hidden
     display: none
-    text-transform: capitalize
     +media-query($on-palm)
         visibility: visible
         position: relative
@@ -108,11 +110,38 @@ li:hover ul.submenu
 
 // Mobile
 +media-query($on-palm)
-.site-header
-    .site-logo
-        img 
-            max-width: 200px
-            padding: 20px
-#fixed-top
-    .main-menu
-        padding: 0
+    .site-header
+        .site-logo
+            img 
+                max-width: 150px
+                padding: 20px
+    #fixed-top
+        .main-menu
+            padding: 0
+    
+    .mobile-left
+        position: fixed
+        padding: 10px
+        top: 30px
+        right: 9px
+        max-width: 140px
+        z-index: 99 
+
+    .mobile-right
+        // visibility: hidden
+        // display: none
+        position: fixed
+        top: 110px
+        right: 0
+        left: 0
+
+        .trigger
+            ul
+                display: flex
+                .submenu
+                    display: none
+
+        
+
+
+
