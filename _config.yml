@@ -10,29 +10,20 @@ description: >-
   Brazilian science fiction & fantasy magazine in English.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-<<<<<<< HEAD
-url: "http://eitamagazine.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: EitaMagazine
-#instagram_username: EitaMag
-=======
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: EitaMagSFF
 instagram_username: eitamagsff
 
->>>>>>> develop
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
-<<<<<<< HEAD
-  - jekyll-seo-tag
-=======
   - jemoji
 
 # Google Analytics
 google_analytics: UA-98488692-4
->>>>>>> develop
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
