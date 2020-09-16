@@ -30,6 +30,7 @@
     // Gaps between nav items, but not on the last one
     &:not(:last-child)
       margin-right: 20px
+      padding: 4px
 
   // Media query for mobile
   +media-query($on-palm)
@@ -104,4 +105,14 @@ li:hover ul.submenu
         a 
             text-transform: lowercase
 
-    
+
+// Mobile
++media-query($on-palm)
+.site-header
+    .site-logo
+        img 
+            max-width: 200px
+            padding: 20px
+#fixed-top
+    .main-menu
+        padding: 0

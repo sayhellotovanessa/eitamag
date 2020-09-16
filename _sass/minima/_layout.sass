@@ -13,8 +13,6 @@ body
     z-index: 99
     img 
       max-width: 200px
-    +media-query($on-palm)
-     display: none
 
   a
     color: $top-nav-links
@@ -63,7 +61,7 @@ body
 .site-footer
   border-top: 1px solid $grey-color-light
   padding: $spacing-unit 0
-  border-top: 4px solid $highlight-bg
+  background: $footer-bg
   a 
     color:  $light-headings
 
@@ -81,12 +79,19 @@ body
   +relative-font-size(0.9375)
   display: flex
   justify-content: space-between
+  align-items: center
   font-family: $titles-font
+  text-align: center
 
   color:  $light-headings
   margin-left: -$spacing-unit / 2
 
   @extend %clearfix
+
+  .footer-col-2
+    p 
+      max-width: 300px
+
 
 
 

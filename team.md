@@ -6,7 +6,8 @@ top-level-menu: true
 left: true
 ---
 
-![alt text][we]
+![Lucas]({{ site.baseurl }}/assets/team/Lucas.jpg "an image title")
+
 
 ### Lucas Ferraz 
 
@@ -16,7 +17,7 @@ left: true
 
 Lucas is a software programmer passionate about stories and words, based in Sorocaba, Brazil. He is an editor at Revista Trasgo, an SFF brazilian semiprozine. He builds dumb software robots while wishing he could create an intelligent one to do his house chores.
 
-![alt text][we]
+![Vanessa]({{ site.baseurl }}/assets/team/Nessa.jpg "an image title")
 
 ### Vanessa Guedes
 
@@ -27,7 +28,7 @@ Lucas is a software programmer passionate about stories and words, based in Soro
 
  She writes stories for humans, and scripts for computers. Vanessa is drowned in science fiction and horror, and her work has been published in some Brazilian magazines, like Mafagafo and Faísca (soon to be announced). She coded this website fueled by caffeine and beer, depeding on the day, from her apartment in Stockholm, Sweden. 🇸🇪🇧🇷
 
- ![alt text][we]
+ ![Natalle]({{ site.baseurl }}/assets/team/Nat.jpg "an image title")
 
 ### Natalle Moura
 
@@ -38,7 +39,7 @@ Lucas is a software programmer passionate about stories and words, based in Soro
 
  Natalle is a proofreader, copy editor, and translator currently living in Stockholm, Sweden (from Goiânia to the world!). She has been a gamer since she got her hands on a computer, loves to read peculiar stuff, and sometimes writes fantastical short stories full of strangeness.
 
-  ![alt text][we]
+![Andre]({{ site.baseurl }}/assets/team/Andre.jpg "an image title")
 
 ### André Colabelli
 
@@ -48,7 +49,7 @@ Lucas is a software programmer passionate about stories and words, based in Soro
 
 Public servant by day, nerd by all hours. Based on Santo André, near São Paulo, Brazil. He’d been trying to become a writer for years, but only found mild success when he resorted to extreme measures and actually wrote something. He doesn’t know what Facebook is.
 
- ![alt text][we]
+![Rapha]({{ site.baseurl }}/assets/team/Rapha.PNG "an image title")
 
 ### Raphael Andrade
 
@@ -58,7 +59,7 @@ Public servant by day, nerd by all hours. Based on Santo André, near São Paulo
 
 Raphael is a designer, comics artist, and illustrator from São Paulo, SP. Works by day (and sometimes during nights too) with advertisement; and on his free time he dedicates himself to author projects and his passions. He illustrated, scripted, and lettered various stories for independent publication in Brazil, United States and Portugal. Raphael is a recurrent collaborator at Tempos Fantásticos, where he is responsible for part of the graphic language. He loves coffee, cachaça with honey, naps, whimsical projects and public transportation.
 
- ![alt text][we]
+![Larissa]({{ site.baseurl }}/assets/team/Lari.jpg "an image title")
 
 ### Larissa Picchioni
 
@@ -69,7 +70,7 @@ Raphael is a designer, comics artist, and illustrator from São Paulo, SP. Works
 --???
 
 
- ![alt text][we]
+![Iana]({{ site.baseurl }}/assets/team/Iana.png "an image title")
 
 ### Iana Araújo
 
@@ -79,7 +80,3 @@ Raphael is a designer, comics artist, and illustrator from São Paulo, SP. Works
 
 Iana is a translator-interpreter (EN-PT) based in Recife, Brazil. She also works for publishing houses as a copy editor and proofreader, while trying to write some weird stuff and slipstream nonsense. Her work has been published in some Brazilian zines, such as Faísca Mafagafo, Pio and Trasgo (to be released). She is an editor at Pretérita Revista, a magazine focused on Brazilian historical fiction. Iana is usually found surrounded by cats and a pile of to-be-read books.
 
-
-
-
-[we]: /assets/we.png "Picture of this person"
