@@ -12,6 +12,10 @@ subpages:
     - sobre
 ---
 
-Em breve postaremos sobre nosso edital em português, para autores brasileiros.
+Saiba mais sobre nosso projeto:
+
+* [Leia o **edital**]({{ site.baseurl }}/pt-br/edital/ ) para enviar o seu conto.
+* [Entenda o que nos motiva]({{ site.baseurl }}/pt-br/sobre/) a fazer a revista.
+* [Envie]({{ site.baseurl }}/pt-br/envie/) seu conto.
 
 
