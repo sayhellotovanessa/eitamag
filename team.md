@@ -9,7 +9,7 @@ left: true
 ![Lucas]({{ site.baseurl }}/assets/team/Lucas.jpg "an image title")
 
 
-### Lucas Ferraz 
+### Lucas Rafael Ferraz 
 
 [Twitter](https://twitter.com/ferraz_lucas) &#124; [Instagram](https://www.instagram.com/ferraz_lucas)
 

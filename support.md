@@ -12,4 +12,4 @@ You also have the option to buy our issues on Amazon(link), but just so you know
 
 Remember: all the money collected is directed towards our writer’s payments (and other small fees). You can learn a little more about it on our Patreon page.
 
-Whatever ***you choose*** we thank you for the support!
+Whatever you choose ***we thank you*** for the support!
