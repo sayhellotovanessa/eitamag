@@ -21,6 +21,9 @@ plugins:
   - jekyll-feed
   - jemoji
 
+# Google Analytics
+google_analytics: UA-98488692-4
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 
