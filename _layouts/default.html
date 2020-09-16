@@ -7,10 +7,22 @@
 
     {%- include header.html -%}
 
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
-        {{ content }}
+  
+
+      {%- if page.layout contains "post" -%}
+      <main class="page-content page-content-post" aria-label="Content">
+        <div class="wrapper wrapper-post">
+          {{ content }}
       </div>
+      {% else %}
+      <main class="page-content" aria-label="Content">
+        <div class="wrapper">
+          {{ content }}
+        </div>
+
+      {%- endif -%}
+     
+
     </main>
 
     {%- include footer.html -%}

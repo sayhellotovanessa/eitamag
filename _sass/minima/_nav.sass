@@ -1,0 +1,147 @@
+.site-nav
+  ul
+    margin-bottom: 0
+    list-style-type: none
+    line-height: $base-line-height * $base-font-size * 2.25
+    +media-query($on-palm)
+        margin-left: 10px
+        width: auto
+    
+    li 
+      display: inline-block
+      &:first-child
+        margin-right: 80px
+      +media-query($on-palm)
+        display: block
+
+
+  .nav-trigger
+    display: none
+
+  .menu-icon
+    display: none
+
+  .page-link
+    line-height: $base-line-height
+    
+    a, a:visited
+      color: $text-color
+      background-color: $vibrant-color
+
+        
+
+    // Gaps between nav items, but not on the last one
+    &:not(:last-child)
+      margin-right: 20px
+      padding: 4px
+      +media-query($on-palm)
+        margin-right: 0
+
+  // Media query for mobile
+  +media-query($on-palm)
+    top: 9px
+    right: $spacing-unit / 2
+    background-color: $highlight-bg
+    text-align: right
+
+
+    label[for="nav-trigger"]
+      display: block
+      float: right
+      width: 40px
+      height: 40px
+      z-index: 2
+      cursor: pointer
+
+    .menu-icon
+      display: block
+      float: right
+      width: 40px
+      height: 40px
+      line-height: 0
+      padding-top: 15px
+      text-align: center
+
+      > svg
+        fill: $grey-color-dark
+
+    input ~ .trigger
+      clear: both
+      display: none
+
+    input:checked ~ .trigger
+      display: block
+      padding-bottom: 5px
+
+    .page-link
+      display: block
+      min-height: 40px
+
+      &:not(:last-child)
+        margin-right: 10px
+        margin-left: 20px
+        +media-query($on-palm)
+            margin-right: 0
+            margin-left: 0
+
+
+.submenu
+    visibility: hidden
+    display: none
+    +media-query($on-palm)
+        visibility: visible
+        position: relative
+        display: block
+
+// li:active ul.submenu, li:active ul.submenu 
+    
+
+li:hover ul.submenu 
+    visibility: visible
+    position: absolute
+    display: block
+    max-width: 120px
+    padding: 10px
+    background: $top-nav-bg
+    li
+        a 
+            text-transform: lowercase
+
+
+// Mobile
++media-query($on-palm)
+    .site-header
+        .site-logo
+            img 
+                max-width: 150px
+                padding: 20px
+    #fixed-top
+        .main-menu
+            padding: 0
+    
+    .mobile-left
+        position: fixed
+        padding: 10px
+        top: 30px
+        right: 9px
+        max-width: 140px
+        z-index: 99 
+
+    .mobile-right
+        // visibility: hidden
+        // display: none
+        position: fixed
+        top: 110px
+        right: 0
+        left: 0
+
+        .trigger
+            ul
+                display: flex
+                .submenu
+                    display: none
+
+        
+
+
+

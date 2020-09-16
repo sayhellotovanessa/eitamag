@@ -1,22 +1,25 @@
 body 
-  background: url(olga.jpg) fixed
-  background-repeat: no-repeat
-  background-size: cover
-  background-position-x: center
-  filter: brightness(1.2)
-
+  background-color: $dark-bg
+  letter-spacing: 1px
+  color: $light-text
   
 .site-header
   min-height: 0
   font-family: $titles-font
-  +relative-font-size(2.21)
-  letter-spacing: 2px
+  text-transform: lowercase
+  +relative-font-size(1.6)
+
+  .site-logo
+    z-index: 99
+    img 
+      max-width: 200px
 
   a
-    color: $vibrant-color
+    color: $top-nav-links
+    &:hover
+      text-shadow: -5px 5px $shadow-text, -10px 8px $shadow-tropical
     
-
-    
+  
   +media-query($on-palm)
     min-height: 0
     transform: none
@@ -24,15 +27,17 @@ body
 
 
 #fixed-top
-  background: black
+  background: $top-nav-bg
+  border-bottom: 3px solid $dark-line
   .main-menu
     display: flex
     justify-content: space-between
+    align-items: center
+    max-height: 120px
     max-width: calc(1200px - (30px * 2))
     margin-right: auto
     margin-left: auto
-    padding-right: 30px
-    padding-left: 30px
+    padding: 20px 30px
 
 
 .sticky
@@ -43,16 +48,17 @@ body
 
 
 .site-title
-  +relative-font-size(3)
-  letter-spacing: 1px
+  +relative-font-size(1.8)
+   
   font-weight: 300
   line-height: $base-line-height * $base-font-size * 2.25
-  letter-spacing: 1px
+   
   margin-bottom: 0
   +media-query($on-palm)
     color: red
 
 
+<<<<<<< HEAD
 .site-nav
   line-height: $base-line-height * $base-font-size * 2.25
   letter-spacing: 1px
@@ -125,15 +131,18 @@ body
         margin-right: 0
 
 
+=======
+>>>>>>> develop
 .site-footer
   border-top: 1px solid $grey-color-light
   padding: $spacing-unit 0
-  background: $text-color
+  background: $footer-bg
+  a 
+    color:  $light-headings
 
 .footer-heading
   +relative-font-size(1.125)
-  color: $vibrant-color
-
+  color: $light-headings
   margin-bottom: $spacing-unit / 2
 
 .contact-list,
@@ -143,28 +152,23 @@ body
 
 .footer-col-wrapper
   +relative-font-size(0.9375)
+  display: flex
+  justify-content: space-between
+  align-items: center
+  font-family: $titles-font
+  text-align: center
 
-  color: $grey-color
+  color:  $light-headings
   margin-left: -$spacing-unit / 2
 
   @extend %clearfix
 
-.footer-col
-  float: left
-  margin-bottom: $spacing-unit / 2
-  padding-left: $spacing-unit / 2
+  .footer-col-2
+    p 
+      max-width: 300px
 
-.footer-col-1
-  width: -webkit-calc(35% - (#{$spacing-unit} / 2))
-  width: calc(35% - (#{$spacing-unit} / 2))
 
-.footer-col-2
-  width: -webkit-calc(20% - (#{$spacing-unit} / 2))
-  width: calc(20% - (#{$spacing-unit} / 2))
 
-.footer-col-3
-  width: -webkit-calc(45% - (#{$spacing-unit} / 2))
-  width: calc(45% - (#{$spacing-unit} / 2))
 
 +media-query($on-laptop)
   .footer-col-1,
@@ -183,19 +187,26 @@ body
     width: -webkit-calc(100% - (#{$spacing-unit} / 2))
     width: calc(100% - (#{$spacing-unit} / 2))
 
-//Page content - home and category
-
-.post-list-heading
-  text-align: center
+.footer-logo
+  padding: 20px
+  max-width: 150px
 
 //Page and Post
 
 .page-content
-  padding: $spacing-unit 0
+  padding: 60px 0 30px
   flex: 1
+<<<<<<< HEAD
   min-height: 680px
   +media-query($on-palm)
     min-height: 420px
+=======
+  background-image: url('/assets/banner.png')
+  background-position: bottom left
+  background-repeat: no-repeat
+  min-height: 720px
+  background-attachment: fixed
+>>>>>>> develop
 
 .page-heading
   +relative-font-size(2)
@@ -206,8 +217,14 @@ body
   color: $grey-color-light
 
 .post-list-heading
+<<<<<<< HEAD
   +relative-font-size(3)
   letter-spacing: 2px
+=======
+  +relative-font-size(5)
+  color: $light-headings
+  text-align: right
+>>>>>>> develop
   text-shadow: 1px 1px 2px #ef0f38
 
 
@@ -248,7 +265,6 @@ body
 
 .post-title
   +relative-font-size(2.625)
-
   letter-spacing: -1px
   line-height: 1
 
@@ -281,3 +297,7 @@ body
 
     +media-query($on-laptop)
       +relative-font-size(1.125)
+
+  // Not very elegant fixes
+  ul 
+    margin-bottom: 0

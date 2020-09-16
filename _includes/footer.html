@@ -4,27 +4,20 @@
   <div class="wrapper">
 
     <div class="footer-col-wrapper">
-      <div class="footer-col footer-col-1">
-        <ul class="contact-list">
-          <li class="p-name">
-            <h2>Support us!</h2>
-            </li>
-            
-            <li><a  href="#">Patreon</a> <strong>Coming soon!</strong></li>
-            
-        </ul>
+      <div class="footer-col footer-col-1 footer-logo">
+        <a  href="{{ "/" | relative_url }}"><img src="/assets/logo-footer.png" alt=""></a>
       </div>
 
       <div class="footer-col footer-col-2">
-        <h2>Social</h2>
+        <p>{{- site.description | escape -}}</p>
+        
         {%- include social.html -%}
       </div>
 
       <div class="footer-col footer-col-3">
-        <p>{{- site.description | escape -}}</p>
+       
 
-
-        <small><b>Image credits:</b> The great photo in our website belongs to <a href="https://unsplash.com/@olgabast">Olga bast</a>.</small>
+            <h2><a  href="https//www.patreon.com/EitaMagSFF">Support us!</a></h2>
 
       </div>
     </div>

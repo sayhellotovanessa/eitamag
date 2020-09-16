@@ -1,5 +1,7 @@
 html
   background: black
+  overflow-y: scroll
+  margin: 0
 
 body, h1, h2, h3, h4, h5, h6,
 p, blockquote, pre, hr,
@@ -7,7 +9,8 @@ dl, dd, ol, ul, figure
   margin: 0
   padding: 0
 
-
+.media-header
+  display: none
 body
   font-family: $text-font
   color: $text-color
@@ -40,6 +43,7 @@ img
   max-width: 100%
   vertical-align: middle
 
+
 // /**
 //  * Figures
 figure > img
@@ -67,14 +71,12 @@ h1, h2, h3, h4, h5, h6
 // /**
 //  * Links
 a
-  color: $vibrant-color
+  color: $hot-vibrant
   text-decoration: none
 
   &:visited
     color: $vibrant-color
 
-  &:hover
-    text-decoration: underline
 
   .social-media-list &:hover
     text-decoration: none
@@ -101,11 +103,12 @@ blockquote
 //  * Code formatting
 pre,
 code
-  +relative-font-size(0.9375)
+  +relative-font-size(1)
 
   border: 1px solid $grey-color-light
   border-radius: 3px
-  background-color: #eef
+  background-color: $dark-text
+  color: $light-text
 
 code
   padding: 1px 5px
@@ -122,7 +125,6 @@ pre
 // /**
 //  * Wrapper
 .wrapper
-  max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2))
   max-width: calc(#{$content-width} - (#{$spacing-unit} * 2))
   margin-right: auto
   margin-left: auto
@@ -153,7 +155,7 @@ pre
   width: 16px
   height: 16px
   display: inline-block
-  fill: #{$grey-color}
+  fill: $light-line
   padding-right: 5px
   vertical-align: text-top
 

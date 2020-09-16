@@ -1,0 +1,18 @@
+@media print
+    .site-header
+        display: none
+    .media-header
+        display: block !important
+
+    p 
+        text-indent: 1cm
+
+@page
+    size: A4
+    margin: 2cm
+
+h1, h2, h3, h4, h5, p
+    page-break-after: avoid
+    page-break-inside: avoid
+    page-break-before: avoid
+
