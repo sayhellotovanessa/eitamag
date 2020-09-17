@@ -2,7 +2,7 @@
 layout: links
 title: Links
 permalink: /links/
-top-level-menu: true
+top-level-menu: false
 left: true
 ---
 
