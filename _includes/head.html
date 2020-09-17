@@ -1,6 +1,21 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- SEO tags -->
+        <meta property="og:type" content="article">
+        <meta property="og:url" content="{{ site.url }}{{ page.url }}">
+        <meta property="og:image" content="{% if page.featured-image %}{{ page.featured-image }}{% else %}{{ site.url }}/assets/logo.png{% endif %}" />
+        <meta property="og:site_name" content="Eita!Magazine">
+        <meta property="article:author" content="Eita!Magazine" />
+        <meta property="og:description" content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}">
+ 
+    <!-- Favicon -->
+
+    <link rel="icon" 
+      type="image/png" 
+      href="{{ site.url }}/favicon.ico">
+
+
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {%- seo -%}
   <link rel="stylesheet" href="{{ "assets/main.css" | relative_url }}">
