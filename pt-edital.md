@@ -75,10 +75,12 @@ Entrelinha simples; Fonte Times New Roman 11; negritos e itálicos já aplicados
 
     g. uma foto ou ilustração que lhe represente em boa resolução nas dimensões 500x500  pixels anexada
 
-12. O formulário também pode pedir informações sobre como você se identifica (região do País, gênero e etnia). Essa seção é completamente opcional, e está ali para podermos analisar internamente nosso alcance e diversidade, bem como para divulgação nas redes sociais depois do fechamento do edital.
+12. O formulário também pode pedir informações sobre como você se identifica (região do País, gênero e etnia). Essa seção é completamente opcional, e está ali para podermos analisar internamente nosso alcance e diversidade, bem como para divulgação nas redes sociais depois do fechamento do edital;
+
+13. As inscrições são gratuitas e válidas para apenas um texto por autore, seja em língua inglesa ou portuguesa.
 
 A decisão dos editores é soberana e inquestionável. Ao enviar seu conto, você concorda em participar do processo de edição do material, que pode exigir alterações no texto para que ele seja publicado. Caso não haja concordância quanto a esse processo, o conto pode ser removido e outre autore será selecionade em seu lugar seguindo os mesmos critérios.
-Inscrições que não sigam as disposições deste edital não serão validadas. As inscrições são gratuitas e válidas para apenas um texto por autore, seja em língua inglesa ou portuguesa. No caso de contos enviados diretamente em inglês, não serão aceitos envios simultâneos para outras revistas de língua inglesa.
+Inscrições que não sigam as disposições deste edital não serão validadas. No caso de contos enviados diretamente em inglês, não serão aceitos envios simultâneos para outras revistas de língua inglesa.
 A Eita! Magazine se resguarda o direito de selecionar contos deste edital para futuras edições da revista. Neste caso, as pessoas selecionadas irão receber um e-mail informando da seleção e de mais detalhes.
 Ao clicar em “enviar” (submit) no formulário de inscrição, você atesta que leu este edital na íntegra, seguiu as instruções de envio do material e está de acordo com as condições de publicação e edição.
 
