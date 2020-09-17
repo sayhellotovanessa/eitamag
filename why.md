@@ -12,11 +12,6 @@ Eita:
 
 /ˈejtɐ/ 
 
-interjection 
-
-
-([ejt’a])
-
 
 EITA is an interjection spoken (or, more commonly, shouted) from all corners of Brazil. **It’s an extremely versatile word that can express surprise, pity, confusion, dismay or joy.**
 Here follows a few applied examples of everyday usage:
