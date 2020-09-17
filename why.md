@@ -6,7 +6,7 @@ parent-page: false
 
 ---
 
-*What the heck is Eita!, you may ask! *
+**What the heck is Eita!, you may ask!**
 
 Eita:
 
