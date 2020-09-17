@@ -67,7 +67,6 @@ Raphael is a designer, comics artist, and illustrator from São Paulo, SP. Works
 
 **Founding editor, slush reader, Social media manager and headmistress.**
 
---???
 
 
 ![Iana]({{ site.baseurl }}/assets/team/Iana.png "an image title")
