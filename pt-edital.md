@@ -57,7 +57,7 @@ Entrelinha simples; Fonte Times New Roman 11; negritos e itálicos já aplicados
 9. A pessoa responsável pela tradução deve estar de acordo com a publicação da sua versão na revista.
 
     **DA INSCRIÇÃO**
-10. A inscrição deve ser feita através deste formulário, que deve ser preenchido integralmente (com exceção dos campos opcionais);
+10. A inscrição deve ser feita através [(deste formulário)]({{ site.url }}/pt-br/envie/), que deve ser preenchido integralmente (com exceção dos campos opcionais);
 
 11. O formulário deve ser preenchido com:
 
