@@ -1,68 +1,67 @@
-body 
+body
   background-color: $dark-bg
-  letter-spacing: 1px
   color: $light-text
-  
+  letter-spacing: 1px
+
 .site-header
-  min-height: 0
   font-family: $titles-font
+  min-height: 0
   text-transform: lowercase
   +relative-font-size(1.6)
 
   .site-logo
     z-index: 99
-    img 
+    img
       max-width: 200px
 
   a
     color: $top-nav-links
     &:hover
       text-shadow: -5px 5px $shadow-text, -10px 8px $shadow-tropical
-    
-  
+
   +media-query($on-palm)
     min-height: 0
-    transform: none
     top: 0
+    transform: none
 
 
 #fixed-top
   background: $top-nav-bg
   border-bottom: 3px solid $dark-line
   .main-menu
+    align-items: center
     display: flex
     justify-content: space-between
-    align-items: center
+    margin-left: auto
+    margin-right: auto
     max-height: 120px
     max-width: calc(1200px - (30px * 2))
-    margin-right: auto
-    margin-left: auto
     padding: 20px 30px
 
 
 .sticky
-  position: fixed
-  top: 0
   left: 0
+  position: fixed
   right: 0
+  top: 0
 
 
 .site-title
   +relative-font-size(1.8)
-   
+
   font-weight: 300
   line-height: $base-line-height * $base-font-size * 2.25
-   
+
   margin-bottom: 0
   +media-query($on-palm)
-    color: red
+    color: #f00
 
 
 .site-footer
+  background: $footer-bg
   border-top: 1px solid $grey-color-light
   padding: $spacing-unit 0
-  background: $footer-bg
-  a 
+  a
     color:  $light-headings
 
 .footer-heading
@@ -77,19 +76,19 @@ body
 
 .footer-col-wrapper
   +relative-font-size(0.9375)
-  display: flex
-  justify-content: space-between
   align-items: center
-  font-family: $titles-font
-  text-align: center
-
   color:  $light-headings
+  display: flex
+  font-family: $titles-font
+  justify-content: space-between
+
   margin-left: -$spacing-unit / 2
+  text-align: center
 
   @extend %clearfix
 
   .footer-col-2
-    p 
+    p
       max-width: 300px
 
 
@@ -113,27 +112,27 @@ body
     width: calc(100% - (#{$spacing-unit} / 2))
 
 .footer-logo
-  padding: 20px
   max-width: 150px
+  padding: 20px
 
 //Page
 
 .page-content
-  padding: 60px 0 30px
-  flex: 1
+  background-attachment: fixed
   background-image: url('/assets/banner.png')
   background-position: bottom left
   background-repeat: no-repeat
+  flex: 1
   min-height: 720px
-  background-attachment: fixed
+  padding: 60px 0 30px
 
 .page-heading
   +relative-font-size(2)
 
 .page-highlight
-  padding: 20px
   background: $text-color
   color: $grey-color-light
+  padding: 20px
 
 .post-list-heading
   +relative-font-size(5)
@@ -146,29 +145,29 @@ body
     +relative-font-size(3)
 
 .post-list
-  margin-left: 0
-  list-style: none
   display: grid
-  grid-template-columns: 30% 30% 30%
   grid-gap: 50px
+  grid-template-columns: 30% 30% 30%
+  list-style: none
+  margin-left: 0
 
   +media-query($on-palm)
+    grid-gap: 10px
     grid-template-columns: none
     grid-template-rows: none
-    grid-gap: 10px
 
 
   > li
     margin-bottom: $spacing-unit
 
 .post-meta
-  font-size: $small-font-size
   color: $grey-color
+  font-size: $small-font-size
 
 .post-link
   display: block
   span
-    background-color: black
+    background-color: #000
     padding: 4px
 
   +relative-font-size(1.5)
@@ -206,6 +205,5 @@ body
     +media-query($on-laptop)
       +relative-font-size(1.125)
 
-  // Not very elegant fixes
-  ul 
+  ul
     margin-bottom: 0

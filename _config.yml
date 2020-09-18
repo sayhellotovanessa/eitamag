@@ -19,7 +19,9 @@ instagram_username: eitamagsff
 theme: minima
 plugins:
   - jekyll-feed
-  - jemoji
+  - jekyll-seo-tag
+
+
 
 # Google Analytics
 google_analytics: UA-98488692-4

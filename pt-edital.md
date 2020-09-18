@@ -11,7 +11,7 @@ parent-page: false
 
 1. **Apresentação da edição zero**
 
-    A equipe da Eita! Magazine faz saber que estão abertas, entre os dias 22 de setembro de 2020 a 10 de outubro de 2020, as inscrições para o envio de contos em língua portuguesa ou inglesa para a publicação na edição zero de nossa revista.
+    A equipe da Eita! Magazine faz saber que estão abertas, entre os dias 17 de setembro de 2020 a 01 de outubro de 2020, as inscrições para o envio de contos em língua portuguesa ou inglesa para a publicação na edição zero de nossa revista.
     Somos uma publicação digital independente e totalmente voluntária, cujo objetivo é disseminar a literatura fantástica brasileira para além das fronteiras do País, através de publicação em língua inglesa de autores brasileiros ou radicados no Brasil. Dentro desse escopo, nosso objetivo é selecionar, editar e publicar digitalmente diversos subgêneros da literatura fantástica, passando pela ficção científica, fantasia e horror.
     Para nossa primeira edição, teremos quatro textos selecionados através deste edital, sendo três escritos originalmente em português e um escrito em inglês. Todos os textos aceitos serão submetidos à preparação e revisão, e os contos em português serão versados para o inglês por nossa equipe de tradutores.
 
@@ -39,8 +39,8 @@ parent-page: false
 
 2. Estar dentro do gênero de ficção fantástica;
 
-3. Usar obrigatoriamente o modelo fornecido neste link. Formato recomendado (disponível no modelo): Primeira linha: 1,25 cm;
-Entrelinha simples; Fonte Times New Roman 11; negritos e itálicos já aplicados no texto.
+3. Usar obrigatoriamente o modelo fornecido neste link. Formato recomendado **[disponível no modelo]({{ site.url }}/assets/docs/ENVIO_EITATitulodaHistoria.docx)**: Primeira linha: 1,25 cm;
+Entrelinha simples; Fonte Times New Roman 12; negritos e itálicos já aplicados no texto.
 
 4. Estar em formato .doc ou .docx e seguir o seguinte formato para o título do documento: [Submissão Eita! Mag] Título do conto;
 
@@ -57,7 +57,7 @@ Entrelinha simples; Fonte Times New Roman 11; negritos e itálicos já aplicados
 9. A pessoa responsável pela tradução deve estar de acordo com a publicação da sua versão na revista.
 
     **DA INSCRIÇÃO**
-10. A inscrição deve ser feita através deste formulário, que deve ser preenchido integralmente (com exceção dos campos opcionais);
+10. A inscrição deve ser feita através **[deste formulário]({{ site.url }}/pt-br/envie/)**, que deve ser preenchido integralmente (com exceção dos campos opcionais);
 
 11. O formulário deve ser preenchido com:
 
@@ -75,10 +75,12 @@ Entrelinha simples; Fonte Times New Roman 11; negritos e itálicos já aplicados
 
     g. uma foto ou ilustração que lhe represente em boa resolução nas dimensões 500x500  pixels anexada
 
-12. O formulário também pode pedir informações sobre como você se identifica (região do País, gênero e etnia). Essa seção é completamente opcional, e está ali para podermos analisar internamente nosso alcance e diversidade, bem como para divulgação nas redes sociais depois do fechamento do edital.
+12. O formulário também pode pedir informações sobre como você se identifica (região do País, gênero e etnia). Essa seção é completamente opcional, e está ali para podermos analisar internamente nosso alcance e diversidade, bem como para divulgação nas redes sociais depois do fechamento do edital;
+
+13. As inscrições são gratuitas e válidas para apenas um texto por autore, seja em língua inglesa ou portuguesa.
 
 A decisão dos editores é soberana e inquestionável. Ao enviar seu conto, você concorda em participar do processo de edição do material, que pode exigir alterações no texto para que ele seja publicado. Caso não haja concordância quanto a esse processo, o conto pode ser removido e outre autore será selecionade em seu lugar seguindo os mesmos critérios.
-Inscrições que não sigam as disposições deste edital não serão validadas. As inscrições são gratuitas e válidas para apenas um texto por autore, seja em língua inglesa ou portuguesa. No caso de contos enviados diretamente em inglês, não serão aceitos envios simultâneos para outras revistas de língua inglesa.
+Inscrições que não sigam as disposições deste edital não serão validadas. No caso de contos enviados diretamente em inglês, não serão aceitos envios simultâneos para outras revistas de língua inglesa.
 A Eita! Magazine se resguarda o direito de selecionar contos deste edital para futuras edições da revista. Neste caso, as pessoas selecionadas irão receber um e-mail informando da seleção e de mais detalhes.
 Ao clicar em “enviar” (submit) no formulário de inscrição, você atesta que leu este edital na íntegra, seguiu as instruções de envio do material e está de acordo com as condições de publicação e edição.
 

@@ -1,5 +1,5 @@
 ---
-layout: page 
+layout: page
 title: Team
 permalink: /about/team/
 top-level-menu: true
@@ -9,7 +9,7 @@ left: true
 ![Lucas]({{ site.baseurl }}/assets/team/Lucas.jpg "an image title")
 
 
-### Lucas Rafael Ferraz 
+### Lucas Rafael Ferraz
 
 [Twitter](https://twitter.com/ferraz_lucas) &#124; [Instagram](https://www.instagram.com/ferraz_lucas)
 
@@ -39,7 +39,7 @@ Lucas is a software programmer passionate about stories and words, based in Soro
 
  Natalle is a proofreader, copy editor, and translator currently living in Stockholm, Sweden (from Goiânia to the world!). She has been a gamer since she got her hands on a computer, loves to read peculiar stuff, and sometimes writes fantastical short stories full of strangeness.
 
-![Andre]({{ site.baseurl }}/assets/team/Andre.jpg "an image title")
+![Andre]({{ site.baseurl }}/assets/team/andre.jpg "an image title")
 
 ### André Colabelli
 
@@ -67,7 +67,7 @@ Raphael is a designer, comics artist, and illustrator from São Paulo, SP. Works
 
 **Founding editor, slush reader, Social media manager and headmistress.**
 
---???
+Larissa is from Pernambuco. She is works in advertising and writes fiction and poetry when she's able to.
 
 
 ![Iana]({{ site.baseurl }}/assets/team/Iana.png "an image title")
