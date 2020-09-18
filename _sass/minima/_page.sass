@@ -1,28 +1,33 @@
 .page-static
   background-color: $light-bg
+  background-image: none
+  
   
 .post-page
   background-color: $light-bg
-  padding: 40px
   color: $dark-text
+  padding: 40px
+  +media-query($on-palm)
+    text-align: left
 
 .page-header
+  align-content: center
+  border-bottom: 4px solid $shadow-tropical
   display: grid 
   justify-content: center
-  align-content: center
-  text-align: center
   margin-bottom: 44px
+  text-align: center
   
   h1 
     color: $dark-bg
     padding: 25px 0
   .page-excerpt
    padding: 20px 0
-   border-bottom: 4px solid $shadow-tropical
+   
   .top 
     background-image: url("/assets/site-img/monster-eye.png")
     background-size: cover
+    height: 120px
     margin: 0 auto
     width: 290px
-    height: 120px
     
