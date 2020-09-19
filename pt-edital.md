@@ -39,8 +39,7 @@ parent-page: false
 
 2. Estar dentro do gênero de ficção fantástica;
 
-3. Usar obrigatoriamente o modelo fornecido neste link. Formato recomendado **[disponível no modelo]({{ site.url }}/assets/docs/ENVIO_EITATitulodaHistoria.docx)**: Primeira linha: 1,25 cm;
-Entrelinha simples; Fonte Times New Roman 12; negritos e itálicos já aplicados no texto.
+3. Usar obrigatoriamente o modelo fornecido neste link. Formato recomendado **[disponível no modelo]({{ site.url }}/assets/docs/ENVIO_EITATitulodaHistoria.docx)**: Recuo na primeira linha de cada parágrafo; Espaçamento duplo entrelinhas; Fonte Times New Roman 12 na cor preta; Alinhamento de parágrafo à esquerda; negritos e itálicos já aplicados no texto.
 
 4. Estar em formato .doc ou .docx e seguir o seguinte formato para o título do documento: [Submissão Eita! Mag] Título do conto;
 
