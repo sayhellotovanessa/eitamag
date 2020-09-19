@@ -27,9 +27,11 @@ body
     transform: none
 
 
-#fixed-top
+.fixed-top
+  position: fixed
+  width: 100%
   background: $top-nav-bg
-  border-bottom: 3px solid $dark-line
+
   .main-menu
     align-items: center
     display: flex
@@ -117,7 +119,7 @@ body
   max-width: 150px
   padding: 20px
 
-//Page
+//All pages content
 
 .page-content
   background-attachment: fixed
@@ -126,6 +128,7 @@ body
   background-repeat: no-repeat
   flex: 1
   min-height: 720px
+  margin-top: 140px
 
 .page-heading
   +relative-font-size(2)
