@@ -63,7 +63,7 @@ Raphael is a designer, comics artist, and illustrator from São Paulo, SP. Works
 
 ### Larissa Picchioni
 
-[Twitter](https://twitter.com/metadepoeta)
+[Twitter](https://twitter.com/LpSaliras) &#124; [Instagram](https://www.instagram.com/lpsaliras/)
 
 **Founding editor, slush reader, Social media manager and headmistress.**
 
