@@ -13,7 +13,7 @@ featured-image-alt: A scifi landscape
 When submitting, we asked our authors to answer a few questions about themselves, and here we have the results from those numbers - and gorgeous art by our Art Director, Rapha. 
 So, this is a transcription from our Twitter thread.
 
-We had a total of 230 valid submissions from authors all over Brazil! We were blown away by this and right now we couldn't be happier with the repercussion.
+We had a total of 230 valid submissions from authors all over Brazil! We were blown away by this and right now we couldn't be happier with the repercussion. In the images below, you can check all the collected data from the first issue submissions.
 
 ![Genres]({{ site.baseurl }}/assets/posts/genre.jpeg "an image title")
 ## Genres 
