@@ -18,7 +18,7 @@ layout: default
 </p>
 
 
-  <!-- {%- if site.posts.size > 0 -%}
+  {%- if site.posts.size > 0 -%}
 
   
 
@@ -26,15 +26,6 @@ layout: default
         {%- for post in site.posts -%}
         {% if post.categories contains "fiction" %}
         <li>
-          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-          <span class="post-meta">{{ post.date | date: date_format }}</span>
-          <h3>
-            <a class="post-link" href="{{ post.url | relative_url }}">
-              {{ post.title | escape }}
-            </a>
-          </h3>
-          <p><strong>{{ post.author | escape }}  </strong></p>
-        
           <div class="post-list-img">
             {%- if post.featured-image -%}
             <img src="{{ post.featured-image | relative_url }}" alt=" {{ post.featured-image-alt | escape }}">
@@ -44,7 +35,14 @@ layout: default
 
           </div>
           {%- endif -%}
-            
+          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+          <span class="post-meta">{{ post.date | date: date_format }}</span>
+          <h3>
+            <a class="post-link" href="{{ post.url | relative_url }}">
+              {{ post.title | escape }}
+            </a>
+          </h3>
+          <p><strong>{{ post.author | escape }}  </strong></p>
             {{ post.excerpt }}
         </li>
         {% endif %}
@@ -54,7 +52,7 @@ layout: default
 
     <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
 
-  {%- endif -%} -->
+  {%- endif -%}
 
 
 
