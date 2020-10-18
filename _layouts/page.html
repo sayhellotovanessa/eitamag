@@ -4,7 +4,13 @@ layout: default
 <article class="post post-page">
 
   <header class="page-header">
-    <div class="top"></div>
+  
+    {% if page.specific-top %}
+    	  <div class="{{page.specific-top}}"></div>
+    {% else %}
+  	  <div class="top"></div>
+    {% endif %}
+    
     <h1 class="post-title">{{ page.title | escape }}</h1>
     {% if page.resumo %}
     <p class="page-excerpt">
@@ -12,8 +18,7 @@ layout: default
     </p>
     {% endif %}
   </header>
-
-
+  
   <div class="post-content">
     {{ content }}
   </div>
