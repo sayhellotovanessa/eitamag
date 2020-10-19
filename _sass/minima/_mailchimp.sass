@@ -82,9 +82,10 @@
 	.size1of2 
 		clear: none
 		float: left
-		display: inline-block
+		display: block
 		width: 46%
 		margin-right: 4%
+		white-space: nowrap
 	.datefield 
 		padding: 0px 0
 		input 
@@ -219,14 +220,14 @@
 	overflow: hidden
 
 .one 
-	width: 50%
+	width: 60%
 	float: left
 	+media-query($on-palm)
 		width: 100%
 		float: none
 
 .two 
-	width: auto
+	width: 40%
 	margin-left: 0%
 	overflow: hidden
 	+media-query($on-palm)
