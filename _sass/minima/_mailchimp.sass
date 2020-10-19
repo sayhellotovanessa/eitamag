@@ -86,7 +86,7 @@
 		width: 46%
 		margin-right: 4%
 	.datefield 
-		padding: 2px 0
+		padding: 0px 0
 		input 
 			display: inline
 			width: 60px
@@ -96,12 +96,12 @@
 			padding: 5px 0 2px 0
 		.monthfield 
 			input 
-				width: 100px
-				min-height: 40px
+				width: 65px
+				min-height: 39px
 		.dayfield 
 			input 
-				width: 100px
-				min-height: 40px
+				width: 65px
+				min-height: 39px
 		label 
 			display: none
 	.phonefield-us 
@@ -138,6 +138,8 @@
 			margin: 0
 			padding: 5px 0
 			list-style: none
+			+media-query($on-palm)
+				padding: 0px 0
 			li 
 				display: block
 				padding: 8px 0px
@@ -214,20 +216,19 @@
 	width: 100%
 	margin: 0 auto
 	padding: 0px
+	overflow: hidden
 
 .one 
 	width: 50%
 	float: left
+	+media-query($on-palm)
+		width: 100%
+		float: none
 
 .two 
+	width: auto
 	margin-left: 0%
-
-@media screen and (max-width: 320px)
-	.one
+	overflow: hidden
+	+media-query($on-palm)
 		width: 100%
-		float: left
-
-	.two
-		width: 100%
-		display: block
 
