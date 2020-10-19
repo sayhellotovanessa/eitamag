@@ -2,7 +2,7 @@
 layout: page
 title: Newsletra
 permalink: /newsletra/
-top-level-menu: false
+parent-page: false
 specific-top: top-landing
 ---
 
