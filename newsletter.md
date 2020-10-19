@@ -12,20 +12,20 @@ specific-top: top-landing
 	<form action="https://eitamagazine.us2.list-manage.com/subscribe/post?u=c90e0e6850cd865271d6e443b&amp;id=fdb864de0c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="" novalidate>
 		<div id="mc_embed_signup_scroll">
 			<div class="mc-field-group">
-				<label for="mce-FNAME"><strong>Your name!</strong></label>
-				<input type="text" value="" name="FNAME" class="" id="mce-FNAME" placeholder="Type your social name..."> 
+				<label for="mce-FNAME"><strong>Your social name!</strong></label>
+				<input type="text" value="" name="FNAME" class="" id="mce-FNAME" placeholder="Name..."> 
 			</div>
 
 			<section class="container">
 				<div class="one">
 					<div class="mc-field-group">
-						<label for="mce-EMAIL"><strong>Email Address</strong></label>
-						<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL"  placeholder="Type your e-mail...">
+						<label for="mce-EMAIL"><strong>Email Address!</strong></label>
+						<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL"  placeholder="Email...">
 					</div>
 				</div>
 			  	<div class="two">
 			  		<div class="mc-field-group size1of2">
-						<label for="mce-BIRTHDAY-month"><strong>Birthday</strong></label>
+						<label for="mce-BIRTHDAY-month"><strong>Birthday!</strong></label>
 						<div class="datefield">
 							<span class="subfield monthfield">
 								<input class="birthday " type="text" pattern="[0-9]*" value="" placeholder="MM" size="2" maxlength="2" name="BIRTHDAY[month]" id="mce-BIRTHDAY-month"></span>
