@@ -45,10 +45,12 @@ specific-top: top-landing
 <li><input type="checkbox" value="4" name="group[76290][4]" id="mce-group[76290]-76290-2"><label for="mce-group[76290]-76290-2">Brazilian literary scene</label></li>
 <li><input type="checkbox" value="8" name="group[76290][8]" id="mce-group[76290]-76290-3"><label for="mce-group[76290]-76290-3">Articles</label></li></ul>
   </div>
-  <div class="two"><ul><li><input type="checkbox" value="1" name="group[76290][1]" id="mce-group[76290]-76290-0"><label for="mce-group[76290]-76290-0">Brazil's curiosities</label></li>
-<li><input type="checkbox" value="2" name="group[76290][2]" id="mce-group[76290]-76290-1"><label for="mce-group[76290]-76290-1">Brazilian memes</label></li>
-<li><input type="checkbox" value="4" name="group[76290][4]" id="mce-group[76290]-76290-2"><label for="mce-group[76290]-76290-2">Brazilian literary scene</label></li>
-<li><input type="checkbox" value="8" name="group[76290][8]" id="mce-group[76290]-76290-3"><label for="mce-group[76290]-76290-3">Articles</label></li></ul></div>
+  <div class="two">
+<ul><li><input type="checkbox" value="16" name="group[76290][16]" id="mce-group[76290]-76290-4"><label for="mce-group[76290]-76290-4">Books and TV shows</label></li>
+<li><input type="checkbox" value="32" name="group[76290][32]" id="mce-group[76290]-76290-5"><label for="mce-group[76290]-76290-5">Production of the zine</label></li>
+<li><input type="checkbox" value="64" name="group[76290][64]" id="mce-group[76290]-76290-6"><label for="mce-group[76290]-76290-6">Comics</label></li>
+<li><input type="checkbox" value="128" name="group[76290][128]" id="mce-group[76290]-76290-7"><label for="mce-group[76290]-76290-7">Exclusive flash stories</label></li></ul>
+</div>
 </section>
     
 
