@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Newsletra
+title: **Thanks for subscribing to Newsletra<br>
+Eita! Magazine's Newsletter!**
 permalink: /newsletra-thanks/
 top-level-menu: false
 specific-top: top-landing
 ---
 
-<br>
-**Thanks for subscribing to Newsletra<br>
-Eita! Magazine's Newsletter!**
+
+
 
