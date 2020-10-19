@@ -9,7 +9,7 @@ specific-top: top-landing
 <!-- Begin Mailchimp Signup Form -->
 
 <div id="mc_embed_signup">
-	<form action="https://eitamagazine.us2.list-manage.com/subscribe/post?u=c90e0e6850cd865271d6e443b&amp;id=fdb864de0c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+	<form action="https://eitamagazine.us2.list-manage.com/subscribe/post?u=c90e0e6850cd865271d6e443b&amp;id=fdb864de0c" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="" novalidate>
 		<div id="mc_embed_signup_scroll">
 			<div class="mc-field-group">
 				<label for="mce-FNAME"><strong>Your name!</strong></label>
