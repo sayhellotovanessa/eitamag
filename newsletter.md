@@ -40,7 +40,7 @@ specific-top: top-landing
 <section class="container">
   <div class="one">
 <ul>
-<li><input type="checkbox" value="1" name="group[76290][1]" id="mce-group[76290]-76290-0"><label for="mce-group[76290]-76290-0">Brazil's curiosities</label></li>
+<li><input type="checkbox" value="1" name="group[76290][1]" id="mce-group[76290]-76290-0"><label for="mce-group[76290]-76290-0">Brazilian curiosities</label></li>
 <li><input type="checkbox" value="2" name="group[76290][2]" id="mce-group[76290]-76290-1"><label for="mce-group[76290]-76290-1">Brazilian memes</label></li>
 <li><input type="checkbox" value="4" name="group[76290][4]" id="mce-group[76290]-76290-2"><label for="mce-group[76290]-76290-2">Brazilian literary scene</label></li>
 <li><input type="checkbox" value="8" name="group[76290][8]" id="mce-group[76290]-76290-3"><label for="mce-group[76290]-76290-3">Articles</label></li></ul>
