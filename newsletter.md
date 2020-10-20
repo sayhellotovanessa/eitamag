@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Newsletra
-permalink: /newsletra/
+permalink: /newsletter/
 top-level-menu: false
 specific-top: top-landing
 ---
