@@ -4,7 +4,7 @@ title: Newsletra
 permalink: /newsletter/
 top-level-menu: false
 specific-top: top-landing
-resumo: Welcome to Newsletra, Eita! Magazine's Newsletter! Please, fill the form below and subscribe to the newsletter to receive news from Eita's editorial process, new releases, exclusive flash stories and a lot of stuff about Brazil, such as articles about our SFF scene, culture, curiosities, memes, comics and much more! 
+resumo: Welcome to Newsletra, Eita! Magazine's Newsletter! Please, fill the form below to get news from Eita's editorial process, releases, announcements and exclusive content!
 ---
 
 <!-- Begin Mailchimp Signup Form -->
