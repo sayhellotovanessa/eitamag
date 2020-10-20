@@ -14,6 +14,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: EitaMagSFF
 instagram_username: eitamagsff
 facebook_username: eitamagazine
+mailchimp_url: newsletter
 
 
 # Build settings
