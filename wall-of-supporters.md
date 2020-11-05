@@ -5,16 +5,16 @@ permalink: /support/supporters/
 parent-page: false
 ---
 
-**My buddy**  
+### My buddy  
 	Diego Guerra  
 	Jamie Ditaranto  
 	Cirilo Lemos  
   
-**Good Person**  
+### Good Person  
 	Amanda Pavani  
 	Michel Peres  
   
-**Comrade**  
+### Comrade  
 	Giu Domingues  
  	May Barros  
 	Gabriela Colicigno  
@@ -23,9 +23,9 @@ parent-page: false
 	Janayna Pin  
 	Eliana M. Ugarte  
   
-**Beloved**  
+### Beloved   
 	Illimani Ferreira  
   
-**Consagrated**  
+### Consagrated  
 	Caesar Ralf Franz Hoppen  
 	Milena Sales Araujo  
