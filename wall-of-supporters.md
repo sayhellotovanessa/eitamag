@@ -5,8 +5,6 @@ permalink: /support/supporters/
 parent-page: false
 ---
 
-<div align="center">
-
 ### My buddy  
 Diego Guerra  
 Jamie Ditaranto  
@@ -35,4 +33,3 @@ Illimani Ferreira
 ### Consagrated  
 Caesar Ralf Franz Hoppen  
 Milena Sales Araujo
-</div>
