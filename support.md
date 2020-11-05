@@ -4,7 +4,6 @@ title: Support us
 permalink: /support/
 top-level-menu: true
 right: true
-highlight-link: true
 type: parent-page
 subpages: 
     - wall-of-supporters
