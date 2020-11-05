@@ -6,18 +6,18 @@ parent-page: false
 ---
 
 ### My buddy  
-Diego Guerra  
+> Diego Guerra  
 Jamie Ditaranto  
 Cirilo Lemos  
 
   
 ### Good Person  
-Amanda Pavani  
+>Amanda Pavani  
 Michel Peres  
   
     
 ### Comrade  
-Giu Domingues  
+>Giu Domingues  
 May Barros  
 Gabriela Colicigno  
 Jonas Dias  
@@ -27,9 +27,9 @@ Eliana M. Ugarte
   
   
 ### Beloved   
-Illimani Ferreira  
+>Illimani Ferreira  
   
   
 ### Consagrated  
-Caesar Ralf Franz Hoppen  
+>Caesar Ralf Franz Hoppen  
 Milena Sales Araujo
