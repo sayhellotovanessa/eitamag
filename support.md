@@ -4,6 +4,10 @@ title: Support us
 permalink: /support/
 top-level-menu: true
 right: true
+highlight-link: true
+type: parent-page
+subpages: 
+    - wall-of-supporters
 
 resumo: Remember that all the money collected is directed towards our writer’s payments (and other small fees). You can learn a little more about it on our Patreon page.
 
