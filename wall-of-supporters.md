@@ -7,8 +7,8 @@ parent-page: false
 
 ### My buddy  
 ##### Diego Guerra  
-Jamie Ditaranto  
-Cirilo Lemos  
+###### Jamie Ditaranto  
+######Cirilo Lemos  
 
   
 ### Good Person  
