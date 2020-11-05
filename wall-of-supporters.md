@@ -5,15 +5,19 @@ permalink: /support/supporters/
 parent-page: false
 ---
 
+<div align="center">
+
 ### My buddy  
 Diego Guerra  
 Jamie Ditaranto  
 Cirilo Lemos  
+
   
 ### Good Person  
 Amanda Pavani  
 Michel Peres  
   
+    
 ### Comrade  
 Giu Domingues  
 May Barros  
@@ -23,9 +27,12 @@ Pablo Oliveira Souza
 Janayna Pin  
 Eliana M. Ugarte  
   
+  
 ### Beloved   
 Illimani Ferreira  
   
+  
 ### Consagrated  
 Caesar Ralf Franz Hoppen  
-Milena Sales Araujo  
+Milena Sales Araujo
+</div>
