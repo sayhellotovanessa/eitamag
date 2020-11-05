@@ -6,16 +6,16 @@ parent-page: false
 ---
 
 ### My buddy  
-##### Diego Guerra  
-###### Jamie Ditaranto  
-######Cirilo Lemos  
-
+Diego Guerra  
+Jamie Ditaranto  
+Cirilo Lemos  
+  
   
 ### Good Person  
 Amanda Pavani  
 Michel Peres  
   
-    
+  
 ### Comrade  
 Giu Domingues  
 May Barros  
