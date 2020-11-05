@@ -1,14 +1,12 @@
 ---
 layout: page
 title: Wall of Supporters
-permalink: /support/wall-of-supporters/
+permalink: /support/supporters/
 parent-page: false
-
-
 ---
 
 **My buddy**
-	Diego Guerra
+	Diego Guerra	
 	Jamie Ditaranto
 	Cirilo Lemos
 
@@ -26,7 +24,7 @@ parent-page: false
 	Eliana M. Ugarte
 
 **Beloved**
-	Illimani Ferreira
+Illimani Ferreira
 
 **Consagrated**
 	Caesar Ralf Franz Hoppen
