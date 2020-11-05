@@ -6,7 +6,7 @@ parent-page: false
 ---
 
 ### My buddy  
-#####Diego Guerra  
+##### Diego Guerra  
 Jamie Ditaranto  
 Cirilo Lemos  
 
