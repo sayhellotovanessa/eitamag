@@ -18,4 +18,4 @@ The cover art for our issue 0 was created by our one and only Raphael Andrade an
 Here's a close up of it for better appreciation. Incredible, right? =D  
 
 
-![Issue #000]({{ site.baseurl }}/assets/posts/cover-issue-000.png "Issue #000 Cover")
+![Issue #000]({{ site.baseurl }}/assets/posts/cover-issue-000.jpg "Issue #000 Cover")
