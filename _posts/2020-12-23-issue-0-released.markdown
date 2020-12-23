@@ -10,11 +10,12 @@ featured-image-alt: Issue 0
 
 ---
 
-The first issue of Eita! Magazine is finally out! 
-Our patrons received it firsthand, and now everyone will be able to buy it from Amazon. 
-What are you waiting for? Oh, the link? Here it goes: <a href="https://amzn.to/3pepXM8">BUY Eita! Magazine Issue #000</a>
+The first issue of Eita! Magazine is finally out!  
+Our patrons received it firsthand, and now everyone will be able to buy it from Amazon.  
+What are you waiting for? Oh, the link? Here it goes: <a href="https://amzn.to/3pepXM8">BUY Eita! Magazine Issue #000</a>  
+  
+The cover art for our issue 0 was created by our one and only Raphael Andrade and it's gorgeous!  
+Here's a close up of it for better appreciation. Incredible, right? =D  
 
-The cover art for our issue 0 was created by our one and only Raphael Andrade and it's gorgeous!
-Here's a close up of it for better appreciation. Incredible, right? =D
 
-![Issue #000]({{ site.baseurl }}/assets/posts/issue-000-post.png "Issue #000 Cover")
+![Issue #000]({{ site.baseurl }}/assets/posts/cover-issue-000.png "Issue #000 Cover")
