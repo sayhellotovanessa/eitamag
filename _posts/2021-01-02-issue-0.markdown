@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "What to expect from our issue #0"
+date:   2021-01-02 22:48:24 +0100
+categories: issue
+author: Eita! Team
+excerpt: So what goodies can you find in our first issue? Here's a list
+featured-image: /assets/posts/our_authors_rec.png
+featured-image-alt: o desenho de uma paisagem futurista genérica
+
+---
+
+So what goodies can you find in our first issue? Here's a list:
+
+**The Prokaryotes Serenade**, by Isabor Quintiere, a look at a very distant future humanity may never witness but is solely responsible for;
+
+**Arrows in the air**, by Miguel Dracul, a story about not wanting to be struck by Cupid's arrow, and doing something about it;
+
+**BURN.IN**, by Laís Dias, a look at a dark future in which water and hope are both scarce, and a couple that manages to dredge up both
+
+**The Witch Dances**, by Thiago Ambrosio Lage, the tale of a peculiar collaboration for dire times; and finally
+
+**The Land of Chimeras**, a 1862 short story by Machado de Assis, never before published in English, about what might not be exactly a flight of fancy.
+
+We are immensely glad to bring these excellent works by Brazilian writers into the world, and we hope you will enjoy them as well! If you do, please share us on your social media and spread the word!
