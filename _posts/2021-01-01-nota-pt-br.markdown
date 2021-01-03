@@ -2,7 +2,7 @@
 layout: post
 title:  "[Portuguese] Nota de esclarecimento sobre a Capa da edição 0"
 date:   2020-10-05 22:48:24 +0100
-categories: issue, pt-br, Portuguese
+categories: issue
 author: Eita! Team
 excerpt: Confira nossa nota de esclarecimento referente ao caso ocorrido no Twitter em 1 de Janeiro de 2021
 featured-image: /assets/posts/submissions.jpeg
