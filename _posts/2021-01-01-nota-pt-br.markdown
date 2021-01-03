@@ -5,7 +5,7 @@ date:   2021-01-01 11:00:00 +0100
 categories: issue
 author: Eita! Team
 excerpt: Confira nossa nota de esclarecimento referente ao caso ocorrido no Twitter em 1 de Janeiro de 2021
-featured-image: /assets/posts/our_authors_rec.png
+featured-image: /assets/posts/nota.png
 featured-image-alt: o desenho de uma paisagem futurista genérica
 
 ---
