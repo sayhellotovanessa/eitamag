@@ -5,7 +5,7 @@ date:   2020-10-05 22:48:24 +0100
 categories: issue
 author: Eita! Team
 excerpt: Today we feature the data from our first authors' submissions. Check out!
-featured-image: /assets/posts/submissions.jpeg
+featured-image: /assets/posts/monster-eye.png
 featured-image-alt: A scifi landscape
 
 ---
