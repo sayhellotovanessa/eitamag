@@ -9,18 +9,65 @@ layout: default
 
   {{ content }}
 
-  <h2 class="post-list-heading">{{ page.list_title | default: "Fantastical Brazilian <br> tales compendium" }}</h2>
-
-<p>  
-    <div class="btn-call-to-action">
-      <a href="/about/why/">Why Eita?</a> 
-    </div>
-</p>
-
+  <!-- <h2 class="post-list-heading">{{ page.list_title | default: "Fantastical Brazilian <br> tales compendium" }}</h2> -->
 
   {%- if site.posts.size > 0 -%}
 
+
+    <div class="wrapper-home-div">
+      <div class="first-home-div">
+        <ul class="current-issue">
+          {%- for post in site.posts -%}
+          {% if post.categories contains "current-issue" %}
+            <div class="current-issue-cover-img">
+              {%- if post.featured-image -%}
+                <img src="{{ post.featured-image | relative_url }}" alt=" {{ post.featured-image-alt | escape }}">
+              {%- endif -%}
+            <h3>
+              <a class="post-link" href="{{ post.url | relative_url }}">
+                {{ post.title | escape }}
+              </a>
+            </h3>
+            <div class="current-issue-excerpt">
+              {{ post.excerpt }}
+            </div>
+            <div>
+              {{ post.content }}
+            </div>
+          {% endif %}
+          {%- endfor -%}
+        </ul>              
+        <ul>              
+      </div>
+      <div class="second-home-div">
+        <ul class="post-list-stories">
+          {%- for post in site.posts -%}
+          {% if post.categories contains "stories" %}
+          <li>
+            <div class="post-list-img">
+              {%- if post.featured-image -%}
+              <img src="{{ post.featured-image | relative_url }}" alt=" {{ post.featured-image-alt | escape }}">
+            </div>
+              {%- else -%}
+              <img src="/assets/img-ipsum.png" alt="Imagem fixa">
   
+            </div>
+            {%- endif -%}
+            {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+            <span class="post-meta">{{ post.date | date: date_format }}</span>
+            <h3>
+              <a class="post-link" href="{{ post.url | relative_url }}">
+                {{ post.title | escape }}
+              </a>
+            </h3>
+            <p><strong>{{ post.author | escape }}  </strong></p>
+              {{ post.excerpt }}
+          </li>
+          {% endif %}
+          {%- endfor -%}
+        </ul>              
+      </div>
+    </div>
 
       <ul class="post-list">
         {%- for post in site.posts -%}
@@ -47,7 +94,6 @@ layout: default
         </li>
         {% endif %}
         {%- endfor -%}
-
       </ul>
 
     <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>

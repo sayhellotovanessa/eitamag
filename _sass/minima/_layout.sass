@@ -98,8 +98,6 @@ body
       max-width: 300px
 
 
-
-
 +media-query($on-laptop)
   .footer-col-1,
   .footer-col-2
@@ -152,6 +150,21 @@ body
   +media-query($on-palm)
     +relative-font-size(3)
     margin-top: 45px
+
+.current-issue
+  display:block
+
+.post-list-stories
+  display: grid
+  grid-gap: 50px
+  grid-template-columns: 30% 30% 30%
+  list-style: none
+  margin-left: 0
+
+  +media-query($on-palm)
+    grid-gap: 10px
+    grid-template-columns: none
+    grid-template-rows: none
 
 .post-list
   display: grid
@@ -209,4 +222,4 @@ body
 
   ul
     margin-bottom: 0
-    
+
