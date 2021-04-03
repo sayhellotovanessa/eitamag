@@ -4,14 +4,27 @@
     overflow: hidden
 
 .first-home-div 
-    display: inline-block
-    width: 33%
-    float:left
+  display: inline-block
+  width: 33%
+  float:left
+  +media-query($on-palm)
+    display: none
+    visibility: hidden
+
+.first-home-mobile-div 
+  width: 100%
+  display: none
+  visibility: hidden           
+  +media-query($on-palm)
+    display: block
+    visibility: visible 
 
 .second-home-div
     display: inline-block
     width: 65%
     float: left
+    +media-query($on-palm)
+        width: 100%
 
 .post-list-stories
   background-color: $pure-white
