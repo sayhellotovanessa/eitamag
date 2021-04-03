@@ -139,17 +139,40 @@ body
   padding: 20px
 
 .post-list-heading
-  +relative-font-size(5)
+  +relative-font-size(2)
   color: $light-headings
   letter-spacing: 1px
   line-height: 1.3em
   text-align: right
   text-shadow: 1px 1px 2px #ef0f38
 
+  +media-query($on-palm)
+    +relative-font-size(2)
+    margin-top: 20px
+
+.post-section-title
+  +relative-font-size(2)
+  color: $light-headings
+  letter-spacing: 1px
+  line-height: 1.3em
+  text-align: left
+  text-shadow: 1px 1px 2px #ef0f38
+  margin-top: 20px
 
   +media-query($on-palm)
-    +relative-font-size(3)
-    margin-top: 45px
+    +relative-font-size(2)
+
+.post-section-title-right
+  +relative-font-size(2)
+  color: $light-headings
+  letter-spacing: 1px
+  line-height: 1.3em
+  text-align: right
+  text-shadow: 1px 1px 2px #ef0f38
+  margin-top: 20px
+
+  +media-query($on-palm)
+    +relative-font-size(2)
 
 .current-issue
   display:block
