@@ -10,6 +10,13 @@ featured-image-alt: A sleeping dog, upon which descends two winged feet and the 
 
 ---
 
+<div style="text-align: right">Written by Machado de Assis<br/>
+Edited by Iana Araújo<br/>
+Translated by Vanessa Guedes<br/>
+Copyedited by Natalle Moura<br/>
+Proofread by Lucas Rafael Ferraz</div>
+<br/>
+
 Cato re­gret­ted go­ing by sea a couple of times when he could have gone by land. The vir­tu­ous Ro­man was right. Am­phitrite’s af­fec­tions are vi­ol­ent, some­times even dread­ful. The deeds on the sea doubled in value be­cause of this cir­cum­stance. And it is also be­cause of it that pla­cid souls avoid sail­ing or, to speak more ad­equately, those of prudent and safe spir­its.
 
 But to ex­plain the pro­verb that says: the work rises un­der­neath the feet — go­ing by land is not ab­so­lutely safer than by sea, and the story of the iron tracks, how­ever small, tells more than a few sad epis­odes.
@@ -227,3 +234,11 @@ When he saw him­self on land his first im­pres­sion was of sat­is­fac­tion
 The candle had burned out; the mon­grel, ly­ing un­der the table, had her eyes fixed on the door. Titus entered and threw him­self on the bed, where he fell asleep, re­flect­ing on what had just happened.
 
 Since then, Titus has a very sharp look, and can tell at first sight if a man has brains or Chi­mer­ical dough in his head. I must de­clare that he finds only a few that do not match the lat­ter spe­cies. He says, and I have reason to be­lieve, that I am among the very few ex­cep­tions. In spite of the con­temp­tu­ous ones against me, I can­not with­draw my trust from a man who has just made such a won­der­ful trip, and who was able to look dir­ectly at the shin­ing throne of the king of Trifles.
+  
+<br/>
+
+***
+
+<br/>**Joa­quim Maria Machado de As­sis**, born on 21 July 1839, is ar­gu­ably the most im­port­ant Brazilian au­thor of all times. He is con­sidered by North-Amer­ican critic Har­old Bloom as the most im­port­ant black au­thor of all times. He penned the ro­mances The Posthum­ous Mem­oirs of Brás Cu­bas and Dom Cas­murro, works that fig­ure amongst the most im­port­ant and in­flu­en­tial of Brazilian lit­er­at­ure. Dur­ing his ca­reer, Machado wrote sev­eral short stor­ies, and in many of them he flir­ted with fant­astic ele­ments, be­ing one of the earli­est Brazilian au­thors to ex­plore the genre.
+
+The Land of Chi­meras is one of such stor­ies, full of ma­gic and fant­astic be­ings. It was first re­leased on Novem­ber 1st, 1862 and Eita! is proud to present its first ver­sion in Eng­lish.

@@ -22,7 +22,7 @@ layout: default
                 <img src="{{ post.featured-image | relative_url }}" alt=" {{ post.featured-image-alt | escape }}">
               {%- endif -%}
             <h3>
-              <a class="post-link" href="{{ post.url | relative_url }}">
+              <a class="post-link" href="{{ post.current-issue-main-post | relative_url }}">
                 {{ post.title | escape }}
               </a>
             </h3>
@@ -48,7 +48,7 @@ layout: default
                   <img src="{{ post.featured-image | relative_url }}" alt=" {{ post.featured-image-alt | escape }}">
                 {%- endif -%}
               <h3>
-                <a class="post-link" href="{{ post.url | relative_url }}">
+                <a class="post-link" href="{{ post.current-issue-main-post | relative_url }}">
                   {{ post.title | escape }}
                 </a>
               </h3>
