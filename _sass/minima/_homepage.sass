@@ -7,6 +7,13 @@
 
 .first-news-div
   display: inline-block
+  +media-query($on-palm)
+      display: none
+
+.first-news-mobile-div
+  display: none
+  +media-query($on-palm)
+      display: inline-block
 
 .second-news-div
   display: inline-block
