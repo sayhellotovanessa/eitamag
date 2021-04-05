@@ -6,7 +6,7 @@ parent-page: false
 ---
 
 
-![Cover]({{ site.baseurl }}/assets/posts/second-cover-issue-000.png "The cover shows two carachters playing snooker in a brazilian bar. The balls are tiny planets.")
+![Cover]({{ site.baseurl }}/assets/issues-img/second-cover-issue-000.png "The cover shows two carachters playing snooker in a brazilian bar. The balls are tiny planets.")
 
 Contents:  
 
