@@ -9,13 +9,14 @@ layout: default
 
   {{ content }}
 
-  <h2 class="post-list-heading">{{ page.list_title | default: "Fantastical Brazilian <br> tales compendium" }}</h2>
+  <p>
 
-<p>  
-    <div class="btn-call-to-action">
-      <a href="/about/why/">Why Eita?</a> 
-    </div>
-</p>
+  <div class="wrapper-news-div">
+    <div class="post-list-heading first-news-div">You haven't checked out our newsletter yet?</div>
+    <div class="btn-call-to-action second-news-div">
+      <a href="/newsletter">Subscribe now!</a> 
+    </div>  
+  </div>
 
 
   {%- if site.posts.size > 0 -%}
