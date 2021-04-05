@@ -3,7 +3,14 @@
 .wrapper-home-div
     overflow: hidden
 
-.first-home-div 
+.first-home-div
+    display: inline-block
+    width: 65%
+    float: left
+    +media-query($on-palm)
+        width: 100%
+
+.second-home-div 
   display: inline-block
   width: 33%
   float:left
@@ -11,20 +18,13 @@
     display: none
     visibility: hidden
 
-.first-home-mobile-div 
+.second-home-mobile-div 
   width: 100%
   display: none
   visibility: hidden           
   +media-query($on-palm)
     display: block
     visibility: visible 
-
-.second-home-div
-    display: inline-block
-    width: 65%
-    float: left
-    +media-query($on-palm)
-        width: 100%
 
 .post-list-stories
   background-color: $pure-white
@@ -57,7 +57,7 @@
     p
       color: $light-text
 
-.current-issue
+.issues
   background-color: $pure-white
   margin-top: 20px
   padding: 40px

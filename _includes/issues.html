@@ -1,0 +1,26 @@
+<h4 class="section-title-right">Issues</h4>       
+<ul class="issues">
+  {%- for content in site.contents -%}
+    {% if content.category contains "issues" %}
+      <div class="current-issue-cover-img">
+        {%- if content.featured-image -%}
+          <img src="{{ content.featured-image | relative_url }}" alt=" {{ content.featured-image-alt | escape }}">
+        {%- endif -%}
+      </div>
+      <br/>
+      <h3>
+        <a class="post-link" href="{{ content.current-issue-main-post | relative_url }}">
+          {{ content.title | escape }}
+        </a>
+      </h3>
+      <div class="current-issue-excerpt">
+        {{ content.excerpt }}
+      </div>
+      <br/>
+      <div>
+        {{ content.content }}
+      </div>
+    {% endif %}
+    {% break %}
+  {%- endfor -%}
+</ul>              

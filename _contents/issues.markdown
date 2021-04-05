@@ -1,9 +1,6 @@
 ---
-layout: post
+category: issues
 title:  "Current Issue"
-date:   2021-04-02 13:03:00 -0300
-categories: current-issue
-author: Eita! Magazine
 excerpt: The very first edition of Eita! Magazine, packing 5 amazing stories! 
 current-issue-main-post: /issues/2021/04/04/issue-0.html
 featured-image: /assets/posts/second-cover-issue-000.png
