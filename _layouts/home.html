@@ -9,15 +9,7 @@ layout: default
 
   {{ content }}
 
-  <p>
-
-  <div class="wrapper-news-div">
-    <div class="post-list-heading first-news-div">You haven't checked out our newsletter yet?</div>
-    <div class="btn-call-to-action second-news-div">
-      <a href="/newsletter">Subscribe now!</a> 
-    </div>  
-  </div>
-
+  {%- include subscribe-newsletter.html -%}
 
   {%- if site.posts.size > 0 -%}
 
