@@ -2,7 +2,7 @@
 category: issues
 title:  "Current Issue"
 excerpt: The very first edition of Eita! Magazine, packing 5 amazing stories! 
-current-issue-main-post: /issues/2021/04/04/issue-0.html
+current-issue-main-post: /issues/zero/
 featured-image: /assets/posts/second-cover-issue-000.png
 featured-image-alt: The cover shows two carachters playing snooker in a brazilian bar. The balls are tiny planets.
 
