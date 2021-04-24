@@ -1,9 +1,12 @@
 ---
 layout: page
 title: Team
-permalink: /about/team/
+permalink: team/
 top-level-menu: true
 left: true
+type: parent-page
+subpages: 
+    - volunteers
 ---
 
 ![Lucas]({{ site.baseurl }}/assets/team/Lucas.jpg "an image title")
