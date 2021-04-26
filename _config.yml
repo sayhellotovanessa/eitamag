@@ -28,6 +28,9 @@ plugins:
 # Google Analytics
 google_analytics: UA-98488692-4
 
+include:
+  - _pages
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 
