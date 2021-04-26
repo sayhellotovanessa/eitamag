@@ -8,8 +8,18 @@ parent-page: false
 
 #### List of active volunteers  
 
-Amanda Pavani
+Amanda Pavani   [Twitter](https://twitter.com/amandapavani)
 
-Diogo Ramos
+Diogo Ramos   [Instagram](https://www.instagram.com/diogolsramos/)
 
-Maria Anna Leal Martins
+Felipe Melo   [LinkedIn](https://www.linkedin.com/in/felipemmelo/)
+
+Francine Emilia Costa   [Twitter](https://twitter.com/francineemilia) &#124; [Instagram](https://www.instagram.com/francineemilia/)
+
+Júlia Leite Serrano de Lima   [Twitter](https://twitter.com/jsjuliaserrano)
+
+Luiza Anselmi Cantoni   [Instagram](https://www.instagram.com/lu_cantoni/)
+
+Maria Anna Leal Martins   [Site](https://mariaannamartins.com/) &#124; [Instagram](https://www.instagram.com/m.annamartins/)
+
+Renata Torres   [Twitter](https://twitter.com/hottea_)
