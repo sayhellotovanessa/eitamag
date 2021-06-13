@@ -9,14 +9,7 @@ layout: default
 
   {{ content }}
 
-  <h2 class="post-list-heading">{{ page.list_title | default: "Fantastical Brazilian <br> tales compendium" }}</h2>
-
-<p>  
-    <div class="btn-call-to-action">
-      <a href="/about/why/">Why Eita?</a> 
-    </div>
-</p>
-
+  {%- include subscribe-newsletter.html -%}
 
   {%- if site.posts.size > 0 -%}
 
@@ -47,7 +40,7 @@ layout: default
         </li>
         {% endif %}
         {%- endfor -%}
-
+        
       </ul>
 
     <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
