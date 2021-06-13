@@ -4,7 +4,11 @@ layout: default
 
 
 <article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
-  {%- include reading-controls.html -%}
+
+  {% if page.categories contains "zero" %}
+    {%- include reading-controls.html -%}
+  {% endif %}
+
   
   <script type="text/javascript" src="{{ site.baseurl }}/assets/js/reading-mode.js"></script>
   <header class="post-header">

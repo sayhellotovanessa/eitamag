@@ -2,7 +2,7 @@
 layout: post
 title:  "First issue submission data"
 date:   2020-10-05 22:48:24 +0100
-categories: issue
+categories: issue zero
 author: Eita! Team
 excerpt: Today we feature the data from our first authors' submissions. Check out!
 featured-image: /assets/avatar.png

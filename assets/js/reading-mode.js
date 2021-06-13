@@ -53,3 +53,11 @@ document.onkeydown = function(evt) {
         toggleReadingMode();
     }
 }
+
+function activeReadMode() {
+  
+}
+
+document.getElementById('reading-mode').addEventListener('click', function () {
+  document.body.classList.toggle('read-mode');
+});
