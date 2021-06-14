@@ -19,6 +19,17 @@
       <br/>
       <div>
         {{ content.content }}
+        {% assign i = 0 %}
+        <br/>
+        {%- for previous-issues in content.previous-issues -%}
+          <h3>
+            <a class="post-link" href="{{ previous-issues | relative_url }}">
+              {% assign prev-issue = 'Issue #' | append: i | append: escape %}
+              {{ prev-issue }}
+            </a>  
+          </h3>
+          {% assign i = i | plus:1 %}
+        {%- endfor -%}
       </div>
     {% endif %}
     {% break %}

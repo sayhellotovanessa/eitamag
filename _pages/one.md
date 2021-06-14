@@ -1,14 +1,11 @@
 ---
-layout: post
-title:  "Issue #1"
-date:   2021-06-14 08:00:00 -0300
-categories: issues
-author: Eita! Magazine
-excerpt: Issue 1 of Eita! Magazine 
-featured-image: /assets/posts/over-issue-001.png
-featured-image-alt: The cover shows more carachters around the same snooker in a brazilian bar fromt he cover of issue 0. The balls are tiny planets.
-
+layout: page
+title: Eita! Magazines Issue 1
+permalink: /issues/one/
 ---
+
+
+![Cover]({{ site.baseurl }}/assets/issues-img/issue_1_mockup.jpg "The cover shows more carachters arount the same snooker from the cover of the previous issue, in a brazilian bar. The balls are tiny planets.")
 
 Contents:  
 

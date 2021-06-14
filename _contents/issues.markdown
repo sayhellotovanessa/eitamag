@@ -5,6 +5,8 @@ excerpt: In the second issue of Eita! Magazine you will find 5 amazing stories b
 current-issue-main-post: /issues/one/
 featured-image: /assets/issues-img/cover-issue-001.jpg
 featured-image-alt: The cover shows more carachters arount the same snooker from the cover of the previous issue, in a brazilian bar. The balls are tiny planets.
+previous-issues: 
+    - /issues/zero
 
 ---
 
@@ -17,3 +19,4 @@ featured-image-alt: The cover shows more carachters arount the same snooker from
 **Nilsinho Pause**, by Michel Peres
 
 **The Pan­plan­et­ary Con­gress**, by Lima Bar­reto
+
