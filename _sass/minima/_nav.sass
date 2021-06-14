@@ -39,7 +39,7 @@
   +media-query($on-palm)
     background-color: $highlight-bg
     right: $spacing-unit / 2
-    text-align: right
+    text-align: left
     top: 9px
 
 
@@ -97,14 +97,16 @@
 li:hover ul.submenu
     background: $top-nav-bg
     display: block
-    max-width: 150px
+    max-width: 120px
     padding: 10px
     position: absolute
     visibility: visible
     li
         a
             text-transform: lowercase
-
+    +media-query($on-palm)
+        position: relative
+        background: $highlight-bg
 
 // Mobile
 +media-query($on-palm)

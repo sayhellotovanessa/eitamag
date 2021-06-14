@@ -7,6 +7,8 @@ left: true
 type: parent-page
 subpages: 
     - why
+    - team
+    - volunteers
     - contact
 
 ---

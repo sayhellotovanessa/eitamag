@@ -2,8 +2,8 @@
 layout: page
 title: Team
 permalink: /about/team/
-top-level-menu: true
-left: true
+parent-page: false
+
 ---
 
 ![Lucas]({{ site.baseurl }}/assets/team/Lucas.jpg "an image title")
