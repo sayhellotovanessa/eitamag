@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "Issue #1"
+date:   2021-06-14 08:00:00 -0300
+categories: issues
+author: Eita! Magazine
+excerpt: Issue 1 of Eita! Magazine 
+featured-image: /assets/posts/over-issue-001.png
+featured-image-alt: The cover shows more carachters around the same snooker in a brazilian bar fromt he cover of issue 0. The balls are tiny planets.
+
+---
+
+Contents:  
+
+**Editor's Note**  
+
+**Foreword**, by Jana Bianchi
+
+**Please Open This Let­ter While I'm at Work**, by Amanda Nunes Al­var­enga
+
+**No Salary Jus­ti­fies Cer­tain Tribu­la­tions**, by San­ti­ago San­tos
+
+**How to Deal with In­con­veni­ent Guests**, by Mar­ina Melo
+
+**Nilsinho Pause**, by Michel Peres
+
+**The Pan­plan­et­ary Con­gress**, by Lima Bar­reto
+
+Buy Now!  
+[Buy on Amazon!](https://www.amazon.com/-/pt/gp/product/B096J1FYXK?ref_=dbs_m_mng_rwt_calw_tkin_1&storeType=ebooks)  
+
+Support us on Patreon to receive the next issues and exclusive content!  
+[Eita! Magazine's Patreon Campaign](https://www.patreon.com/EitaMagSFF)
+

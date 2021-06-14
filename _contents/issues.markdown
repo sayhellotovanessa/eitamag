@@ -1,19 +1,19 @@
 ---
 category: issues
 title:  "Current Issue"
-excerpt: The very first edition of Eita! Magazine, packing 5 amazing stories! 
-current-issue-main-post: /issues/zero/
-featured-image: /assets/issues-img/second-cover-issue-000.png
-featured-image-alt: The cover shows two carachters playing snooker in a brazilian bar. The balls are tiny planets.
+excerpt: In the second issue of Eita! Magazine you will find 5 amazing stories by brazilian authors!
+current-issue-main-post: /issues/one/
+featured-image: /assets/issues-img/cover-issue-001.jpg
+featured-image-alt: The cover shows more carachters arount the same snooker from the cover of the previous issue, in a brazilian bar. The balls are tiny planets.
 
 ---
 
-**The Prokaryotes Serenade**, by Isabor Quintiere
+**Please Open This Let­ter While I'm at Work**, by Amanda Nunes Al­var­enga
 
-**Arrows in the air**, by Miguel Dracul
+**No Salary Jus­ti­fies Cer­tain Tribu­la­tions**, by San­ti­ago San­tos
 
-**BURN.IN**, by Laís Dias
+**How to Deal with In­con­veni­ent Guests**, by Mar­ina Melo
 
-**The Witch Dances**, by Thiago Ambrosio Lage
+**Nilsinho Pause**, by Michel Peres
 
-**The Land of Chimeras**, by Machado de Assis
+**The Pan­plan­et­ary Con­gress**, by Lima Bar­reto
