@@ -31,8 +31,10 @@ google_analytics: UA-98488692-4
 #Customs Collections
 collections:
   - contents
+
 include:
   - _pages
+  - _issues
 
 # Exclude from processing.
 # The following items will not be processed, by default.
