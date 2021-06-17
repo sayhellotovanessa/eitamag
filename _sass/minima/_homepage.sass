@@ -14,9 +14,19 @@
   display: none
   +media-query($on-palm)
       display: inline-block
+      margin-top: 0
+      align-self: center
 
 .second-news-div
   display: inline-block
+  +media-query($on-palm)
+      display: none
+
+.second-news-mobile-div
+  display: none
+  +media-query($on-palm)
+    display: inline-block
+    align-self: center
 
 .post-list
   background-color: $pure-white
