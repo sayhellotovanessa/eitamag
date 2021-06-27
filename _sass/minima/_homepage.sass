@@ -1,5 +1,30 @@
 //Posts - Homepage
 
+.wrapper-home-div
+    overflow: hidden
+
+.first-home-div
+    display: inline-block
+    width: 65%
+    float: left
+    +media-query($on-palm)
+        width: 100%
+
+.second-home-div 
+  display: inline-block
+  width: 33%
+  float:left
+  +media-query($on-palm)
+    display: none
+    visibility: hidden
+
+.second-home-mobile-div 
+  width: 100%
+  display: none
+  visibility: hidden           
+  +media-query($on-palm)
+    display: block
+    visibility: visible 
 .wrapper-news-div
   overflow: hidden
   display: flex
@@ -20,7 +45,7 @@
 
 .post-list
   background-color: $pure-white
-  margin-top: 40px
+  margin-top: 20px
   padding: 40px
   text-align: left
 
@@ -49,6 +74,19 @@
     p
       color: $light-text
 
+.issues
+  background-color: $pure-white
+  margin-top: 20px
+  padding: 40px
+  text-align: left
+
+  &-cover-img 
+    img 
+      margin-bottom: 15px
+
+  &-excerpt
+    margin-bottom: 20px
+  
 .btn-call-to-action
   margin-top: 10px
   text-align: right

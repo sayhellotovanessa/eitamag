@@ -28,6 +28,10 @@ plugins:
 # Google Analytics
 google_analytics: UA-98488692-4
 
+#Customs Collections
+collections:
+  - contents
+
 include:
   - _pages
 

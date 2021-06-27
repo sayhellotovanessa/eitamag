@@ -13,35 +13,43 @@ layout: default
 
   {%- if site.posts.size > 0 -%}
 
+    <div class="wrapper-home-div">
+      <div class="first-home-div">
+        <div class="second-home-mobile-div">
+          {%- include issues.html -%}
+        </div>        
+        <h4 class="section-title">News and Updates</h4>       
+        <ul class="post-list">
+          {%- for post in site.posts -%}
+          {% if post.categories contains "issue" %}
+          <li>
+            <div class="post-list-img">
+              {%- if post.featured-image -%}
+              <img src="{{ post.featured-image | relative_url }}" alt=" {{ post.featured-image-alt | escape }}">
+            </div>
+              {%- else -%}
+              <img src="/assets/img-ipsum.png" alt="Imagem fixa">
   
-
-      <ul class="post-list">
-        {%- for post in site.posts -%}
-        {% if post.categories contains "issue" %}
-        <li>
-          <div class="post-list-img">
-            {%- if post.featured-image -%}
-            <img src="{{ post.featured-image | relative_url }}" alt=" {{ post.featured-image-alt | escape }}">
-          </div>
-            {%- else -%}
-            <img src="/assets/img-ipsum.png" alt="Imagem fixa">
-
-          </div>
-          {%- endif -%}
-          {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-          <span class="post-meta">{{ post.date | date: date_format }}</span>
-          <h3>
-            <a class="post-link" href="{{ post.url | relative_url }}">
-              {{ post.title | escape }}
-            </a>
-          </h3>
-          <p><strong>{{ post.author | escape }}  </strong></p>
-            {{ post.excerpt }}
-        </li>
-        {% endif %}
-        {%- endfor -%}
-        
-      </ul>
+            </div>
+            {%- endif -%}
+            {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+            <span class="post-meta">{{ post.date | date: date_format }}</span>
+            <h3>
+              <a class="post-link" href="{{ post.url | relative_url }}">
+                {{ post.title | escape }}
+              </a>
+            </h3>
+            <p><strong>{{ post.author | escape }}  </strong></p>
+              {{ post.excerpt }}
+          </li>
+          {% endif %}
+          {%- endfor -%}
+        </ul>
+      </div>
+      <div class="second-home-div">
+        {%- include issues.html -%}
+      </div>
+    </div>
 
     <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
 
