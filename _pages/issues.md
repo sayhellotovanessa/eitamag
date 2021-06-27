@@ -7,6 +7,7 @@ left: true
 type: parent-page
 subpages: 
     - zero
+    - one
 
 ---
 
