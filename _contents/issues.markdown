@@ -1,6 +1,7 @@
 ---
 category: issues
 title:  "Current Issue"
+info: "No. 1, Jun. 2021"
 excerpt: In the second issue of Eita! Magazine you will find 5 amazing stories by brazilian authors!
 current-issue-main-post: /issues/one/
 featured-image: /assets/issues-img/cover-issue-001.jpg
@@ -9,6 +10,7 @@ previous-issues:
     - /issues/zero
 
 ---
+
 
 **Please Open This Let­ter While I'm at Work**, by Amanda Nunes Al­var­enga
 

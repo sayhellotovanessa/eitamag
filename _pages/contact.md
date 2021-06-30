@@ -11,6 +11,7 @@ Get in touch!
 
 Email: eitamagsff@gmail.com
 
+Recife, Pernambuco.
 
 
 

@@ -13,6 +13,7 @@
           {{ content.title | escape }}
         </a>
       </h3>
+      <h4>{{ content.info }}</h4>
       <div class="current-issue-excerpt">
         {{ content.excerpt }}
       </div>
@@ -27,7 +28,8 @@
               {% assign prev-issue = 'Issue #' | append: i | append: escape %}
               {{ prev-issue }}
             </a>  
-          </h3>
+          </h3>   
+          <h4>No. 0, Dec. 2020</h4>       
           {% assign i = i | plus:1 %}
         {%- endfor -%}
       </div>
