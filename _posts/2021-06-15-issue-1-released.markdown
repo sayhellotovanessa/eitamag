@@ -4,7 +4,7 @@ title:  "Issue #1 is out!"
 date:   2021-06-15 00:00:00 +0100
 categories: issue
 author: Eita! Team
-excerpt: Know more about this issue's stories and buy it on Amazon! 
+excerpt: Know more about the stories in this issue and buy it on Amazon! 
 featured-image: /assets/issues-img/issue_0_mockup.jpg
 featured-image-alt: Issue 1
 
