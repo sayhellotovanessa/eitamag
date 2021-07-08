@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Issue #1 is out!"
-date:   2020-06-15 00:00:00 +0100
+date:   2021-06-15 00:00:00 +0100
 categories: issue
 author: Eita! Team
 excerpt: Know more about the stories issue #1 is packing and buy it on Amazon! 
