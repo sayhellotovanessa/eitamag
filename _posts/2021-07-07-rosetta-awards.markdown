@@ -16,14 +16,14 @@ The announcement of the winners will be made in an award ceremony, the time an v
 
 Congratulations to all shortlisted below, in both categories!
 
-**Long-form**
+**Long-form**  
 Daughter from the Dark, Marina & Sergey Dyachenko, translated from Russian by Julia Meitov Hersey (Harper Voyager)  
 Vagabonds, Hao Jingfang, translated from Chinese by Ken Liu (Saga)  
 Qualityland, Marc-Uwe Kling, translated from German by Jamie Searle Romanelli (Grand Central)  
 The Disaster Tourist, Yun Ko-eun, translated from Korean by Lizzie Buehler (Counterpoint)  
 Red Dust, Yoss, translated from Spanish by David Frye (Restless)  
 
-**Short-form**
+**Short-form**  
 “Whale Snows Down”, Kim Bo-Young, translated from Korean by Sophie Bowman (Future Science Fiction 12/20)  
 “Roesin”, Wu Guan, translated from Chinese by Judith Huang (Future Science Fiction 12/20)  
 “The Witch Dances”, Thiago Ambrósio Lage, translated from Portuguese by Iana Araújo (Eita! 12/20)  
