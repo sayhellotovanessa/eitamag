@@ -10,8 +10,8 @@ featured-image-alt: Issue 1
 
 ---
 
-Our Issue #001 was released! It came out on June 15th and we're very pleased with it. We hope all of you are pleased as well!
-What sort of stories have we brought you? I'm glad you asked:
+Issue #001 was released on June 15th! We’re very pleased with it and we hope all of you are pleased as well!   
+What sort of stories have we brought you? I’m glad you asked:
 
 **Please Open This While I'm At Work**, by Amanda Nunes Alvarenga, a girl needs to come out to her mother—but it's not exactly what's expected;
 
@@ -21,11 +21,10 @@ What sort of stories have we brought you? I'm glad you asked:
 
 **Nilsinho Pause**, by Michel Peres, Nilsinho Pause is a Brazilian visual artist and performer whose works (or 'tricks', as he calls them) criticise society, the art world and humankind itself. This has brought him fame all around the planet and beyond, but his attention turns to his hometown of Itaparica; and finally
 
-**The Pan-Planetary Congress**, a 1920 short story by Lima Barreto, never before published in English, in which a Pan-Planetary Congress is organized for the discussion of several subjects and for Jupiter to brag about its advancements..
+**The Pan-Planetary Congress**, a 1920 short story by Lima Barreto, never before published in English, in which a Pan-Planetary Congress is organized for the discussion of several subjects and for Jupiter to brag about its advancements.
 
-Our patrons received it firsthand, and now everyone will be able to buy it from Amazon.  
-What are you waiting for? Oh, the link? Here it goes: <a href="https://www.amazon.com/dp/B096J1FYXK">BUY Eita! Magazine Issue #001</a>  
-  
-Meanwhile, our <a href="https://amzn.to/3pepXM8">issue #000</a> is still for sale, now for a discounted price. 
-We'll start publishing the stories for free in our website shortly, as well. 
+Our patrons received it firsthand, and now everyone will be able to purchase it on Amazon.   
+What are you waiting for? Oh, the link? Here it goes: <a href="https://www.amazon.com/dp/B096J1FYXK">GET Eita! Magazine Issue #001.</a>  
+
+Meanwhile, <a href="https://amzn.to/3pepXM8">issue #000</a> is selling at a discounted price. We'll start publishing the stories for free in our website shortly as well.   
 There's no excuse for missing out on great Brazilian SFF!
