@@ -17,18 +17,18 @@ The announcement of the winners will be made in an award ceremony, the time an v
 Congratulations to all shortlisted below, in both categories!
 
 **Long-form**
-Daughter from the Dark, Marina & Sergey Dyachenko, translated from Russian by Julia Meitov Hersey (Harper Voyager)
-Vagabonds, Hao Jingfang, translated from Chinese by Ken Liu (Saga)
-Qualityland, Marc-Uwe Kling, translated from German by Jamie Searle Romanelli (Grand Central)
-The Disaster Tourist, Yun Ko-eun, translated from Korean by Lizzie Buehler (Counterpoint)
-Red Dust, Yoss, translated from Spanish by David Frye (Restless)
+Daughter from the Dark, Marina & Sergey Dyachenko, translated from Russian by Julia Meitov Hersey (Harper Voyager)  
+Vagabonds, Hao Jingfang, translated from Chinese by Ken Liu (Saga)  
+Qualityland, Marc-Uwe Kling, translated from German by Jamie Searle Romanelli (Grand Central)  
+The Disaster Tourist, Yun Ko-eun, translated from Korean by Lizzie Buehler (Counterpoint)  
+Red Dust, Yoss, translated from Spanish by David Frye (Restless)  
 
 **Short-form**
-“Whale Snows Down”, Kim Bo-Young, translated from Korean by Sophie Bowman (Future Science Fiction 12/20)
-“Roesin”, Wu Guan, translated from Chinese by Judith Huang (Future Science Fiction 12/20)
-“The Witch Dances”, Thiago Ambrósio Lage, translated from Portuguese by Iana Araújo (Eita! 12/20)
-“Cousin Entropy”, Michèle Laframboise, translated from French by N.R.M. Roshak (Future Science Fiction 6/20)
-“Biography of Algae”, Martha Riva Palacio Obón, translated from Spanish by Will Morningstar (Strange Horizons 11/30/20)
-“The Ancestral Temple in a Box”, Chen Qiufan, translated from Chinese by Emily Jin (Clarkesworld 1/20)
-
+“Whale Snows Down”, Kim Bo-Young, translated from Korean by Sophie Bowman (Future Science Fiction 12/20)  
+“Roesin”, Wu Guan, translated from Chinese by Judith Huang (Future Science Fiction 12/20)  
+“The Witch Dances”, Thiago Ambrósio Lage, translated from Portuguese by Iana Araújo (Eita! 12/20)  
+“Cousin Entropy”, Michèle Laframboise, translated from French by N.R.M. Roshak (Future Science Fiction 6/20)  
+“Biography of Algae”, Martha Riva Palacio Obón, translated from Spanish by Will Morningstar (Strange Horizons 11/30/20)  
+“The Ancestral Temple in a Box”, Chen Qiufan, translated from Chinese by Emily Jin (Clarkesworld 1/20)  
+  
 Original article here: <a href="https://sffrosettaawards.com/2021/07/05/announcing-shortlist-of-science-fiction-and-fantasy-rosetta-awards-2021/">Announcing Shortlist of Science Fiction and Fantasy Rosetta Awards 2021</a>
