@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Rosetta Awards 2021"
-date:   2021-07-08 00:00:01 +0100
+date:   2021-07-07 00:00:01 +0100
 categories: awards
 author: Eita! Team
 excerpt: Our stories "The Witch Dances" has been shortlisted for the Rosetta Awards!
