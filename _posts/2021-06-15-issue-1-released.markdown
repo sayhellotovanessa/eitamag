@@ -24,7 +24,7 @@ What sort of stories have we brought you? I'm glad you asked:
 **The Pan-Planetary Congress**, a 1920 short story by Lima Barreto, never before published in English, in which a Pan-Planetary Congress is organized for the discussion of several subjects and for Jupiter to brag about its advancements..
 
 Our patrons received it firsthand, and now everyone will be able to buy it from Amazon.  
-What are you waiting for? Oh, the link? Here it goes: <a href="https://www.amazon.com/dp/B096J1FYXK">BUY Eita! Magazine Issue #000</a>  
+What are you waiting for? Oh, the link? Here it goes: <a href="https://www.amazon.com/dp/B096J1FYXK">BUY Eita! Magazine Issue #001</a>  
   
 Meanwhile, our <a href="https://amzn.to/3pepXM8">issue #000</a> is still for sale, now for a discounted price. 
 We'll start publishing the stories for free in our website shortly, as well. 
