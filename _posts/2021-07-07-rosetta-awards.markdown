@@ -2,7 +2,7 @@
 layout: post
 title:  "Rosetta Awards 2021"
 date:   2021-07-07 00:00:01 +0100
-categories: awards
+categories: issue
 author: Eita! Team
 excerpt: Our stories "The Witch Dances" has been shortlisted for the Rosetta Awards!
 featured-image: /assets/posts/cropped-banner-sffra-1.png
