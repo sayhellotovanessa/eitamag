@@ -10,9 +10,9 @@ featured-image-alt: Rosetta Awards
 
 ---
 
-<a href="https://sffrosettaawards.com/">The Science Fiction and Fantasy Rosetta Awards</a> are a new prize created in the end of 2020, that describes itself as "initiated and organized by a group of SFF enthusiasts with faith to promote and recognize the SFF literatures from various cultures and languages along with the efforts of those authors and translators", and our story "The Witch Dances", published in Eita's Issue #000, has been one of six shortlisted in the short-form category!  
-We are incredibly happy for translator Iana A. and writter Thiago Ambrosio Lage for this huge accomplishment!   
-The announcement of the winners will be made in an award ceremony, the time an venue of which are yet to be known. 
+<a href="https://sffrosettaawards.com/">The Science Fiction and Fantasy Rosetta Awards</a> is a new award created by the end of 2020, and describes itself as “initiated and organized by a group of SFF enthusiasts with faith to promote and recognize the SFF literatures from various cultures and languages along with the efforts of those authors and translators”. Our story “The Witch Dances”, published in Issue #000, has been one of six stories shortlisted in the short-form category!  
+We are incredibly happy for translator Iana A. and writer Thiago Ambrósio Lage for this huge accomplishment!  
+The winners will be announced in an award ceremony, the date and venue of which still haven't been disclosed.  
 
 Congratulations to all shortlisted below, in both categories!  
 
