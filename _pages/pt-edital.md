@@ -36,8 +36,8 @@ Nossa seleção de contos é **anônima**, de forma a assegurar maior imparciali
 - Usar **obrigatoriamente** o modelo fornecido neste link.Estar em formato .doc ou .docx e seguir o seguinte formato para o título do documento: **[Submissão Eita! Mag] Título do conto**;Incluir **apenas** o título do conto (**sem autoria**) no início do documento, centralizado.
 - **PARA CONTOS EM PORTUGUÊS:**Os contos enviados em português **não** precisam ser inéditos, podendo a história já ter sido publicada **em revistas, antologias, coletâneas e de forma independente em qualquer meio**, desde que essa publicação não tenha sido na língua inglesa e que o autor detenha os direitos de reprodução do texto.
 - **PARA CONTOS EM INGLÊS:**Contos escritos e enviados diretamente em língua inglesa **devem** ser inéditos, nunca tendo sido publicados em nenhum formato.Também aceitamos contos previamente traduzidos, e estes devem ser **igualmente inéditos** em língua inglesa;A pessoa responsável pela tradução deve estar de acordo com a publicação da sua versão na revista.
-
-
+<br/>
+<br/>
 
 ### DA INSCRIÇÃO
 
@@ -67,7 +67,8 @@ O que não aceitamos:
 - Gore/violência extrema.Horror que se baseia em serial killers sem outro elemento fantástico.Histórias em que estupro e violência sexual existam apenas como elemento de terror.
 - Contos que façam apologia ao racismo, capacitismo, misoginia, fascismo, xenofobia ou qualquer tipo de preconceito.
 - Não publicamos fragmentos de obras maiores (novelas, romances), apenas histórias contidas em si. Seu conto pode se passar em um universo maior, mas deve ser compreensível como uma obra individual.
-
+<br/>
+<br/>
 
 
 ### Direitos autorais
