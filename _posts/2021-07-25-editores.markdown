@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[PT] Preferências dos editores"
-date:   2020-10-05 22:48:24 +0100
+date:   2021-07-25 01:48:24 +0100
 categories: issue
 author: Eita! Team
 excerpt: Confira o que cada um dos nossos editores procuram nas submissões
