@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "[PT] Preferências dos editores"
-date:   2021-07-25 01:48:24 +0100
+date:   2021-07-25 01:00:01 +0100
 categories: issue
 author: Eita! Team
 excerpt: Confira o que cada um dos nossos editores procuram nas submissões
-featured-image: /assets/avatar.png
-featured-image-alt: A scifi landscape
+featured-image: /assets/posts/cropped-banner-sffra-1.png
+featured-image-alt: Rosetta Awards
 
 ---
 
