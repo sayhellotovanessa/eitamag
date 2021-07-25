@@ -1,0 +1,278 @@
+---
+layout: post
+title:  "[PT] Preferências dos editores"
+date:   2020-10-05 22:48:24 +0100
+categories: issue
+author: Eita! Team
+excerpt: Confira o que cada um dos nossos editores procuram nas submissões
+featured-image: /assets/avatar.png
+featured-image-alt: A scifi landscape
+
+---
+
+# Nossos editores
+1. [André Colabelli](#andre)
+2. [Iana Araújo](#iana)
+3. [Vanessa Guedes](#vanessa)
+4. [Natalle Moura](#natalle)
+5. [Lucas Ferraz](#lucas)
+
+## ANDRÉ COLABELLI <a name="andre"></a>
+
+Gosto de Weird, mas a história tem que ter um cerne além de simplesmente ser estranha ou densa.
+
+Gosto de textos em outros formatos (notícia de jornal, manual de instruções, etc) mas a história tem que ter um motivo para estar nesse formato.
+
+Gosto de steampunk e cyberpunk, mas gosto mais ainda de cenários diferentões que nem tenham nome ainda.Não gosto de fantasia medieval, mas pegue a mesma ideia (uma sociedade do passado em que magia e sobrenatural é conhecido) e leve para literalmente qualquer outra época e vou adorar.
+
+### Referências
+
+*Romances*
+
+Ana Cristina Rodrigues — Atlas Ageográfico de Lugares Imaginados
+
+Fábio Kabral — tudo do universo Ketu Três
+
+Eric Novello — Exorcismos, Amores e uma Dose de Blues
+
+Terry Pratchett — Tudo :) mas principalmente os primeiros livros da Morte
+
+Gail Carriger — Protetorado da Sombrinha (e as outras séries no mesmo universo)
+
+Ekaterina Sedia — A Alquimia da Pedra (e The Secret Story of Moscow também)
+
+Susanna Clarke — Johnathan Norrell & Mr. Strange
+
+China Miéville — A Cidade & A Cidade, Estação Perdido
+
+*Mais referências (hipster edition):*
+
+Max Gladstone — universo The Craft 
+
+Jenna Katerin Moran — Magical Bears in the Context of Contemporary Political Theory
+
+The Troika — Stepan Chapman
+
+Shamus Young — The Witch Watch
+
+A maior parte dos textos da coletânea Cidades Indizíveis (Vários autores — Llyr, 2011)
+
+*Podcast:*
+
+Informe do Almanaque
+
+## IANA A. <a name="iana"></a>
+
+Gosto de ficção weird em todas as suas formas. O inexplicável que não busca por explicação; a dúvida que instiga teorias, mas sua solução não é o cerne da história. Histórias que misturam uma ideia batida com uma execução inovadora me cativam facilmente. Você não precisa inventar a roda, ela já está feita e funciona bem, mas você pode fazê-la rodar no ritmo que quiser.
+
+Experimentações narrativas não-lineares são interessantes, se a história fizer sentido com a proposta e o escritor souber arramar bem o que está acontecendo — ou tiver a destreza de deixar as pontas certas soltas.
+
+**O que eu gostaria de ler:**
+
+- Narrativas de horror que não se balizem simplesmente pelo gore ou violência física, mas cujo horror esteja na ideia, na dinâmica dos acontecimentos, na mente das personagens envolvidas, no desejo, nos medos.
+- Histórias com bruxas, que brinquem com o clichê e tragam algo refrescante para esse arquétipo.
+- Contos sobre a natureza não-antropomorfizada, que traga a estranheza de um ecossistema/bioma/ser vivo que não funcione da mesma maneira que o humano.
+- Protagonistas infantis/juvenis que são retratados como pessoas, e movidos por sua curiosidade.
+- Mitos brasileiros em cenários diferentes (futurista, contemporâneo, urbano, etc), sem infodumping, que tenha seu alicerce nos personagens.
+- Histórias protagonizadas por animais/objetos inanimados, abordado de forma criativa e inovadora.
+- História alternativa (“What ifs”) com foco em descobertas da ciência ou simples alterações históricas com resultados inesperados (as Américas nunca foram invadidas pelos europeus, a insurreição conseguiu a independência, os seres humanos nunca saíram do continente africano, outras espécies de *homo sapiens* se desenvolveram, o homem nunca foi à lua).Contos que lidem com nostalgia.
+
+### Referências
+
+*Contos e Noveletas:*
+
+Siobhan Carroll — [For he can creep](https://www.tor.com/2019/07/10/for-he-can-creep-siobhan-carroll/)
+
+Fabiana Ferraz — [A mulher e o vento](https://amzn.to/3wx0iBT)
+
+Thiago Lee — A Maldição do Carneiro de Ouro
+
+L. P. Araújo — [Portos Piratas e Pudins Passados](https://amzn.to/2TWQCmZ)
+
+Seanan McGuire — [How the Maine Coon Cat Learned to Love the Sea ](https://uncannymagazine.com/article/maine-coon-cat-learned-love-sea/)Sloane Leong — [Mouth & Marsh, Silver & Song](https://firesidefiction.com/mouth-and-marsh-silver-and-song)
+
+Teresa P. Mira de Echeverría — [À Sua Imagem](https://amzn.to/3efSE8x)
+
+Fernanda Castro — [Lágrimas de Carne](https://amzn.to/3i4q0Z7)
+
+Shirley Jackson — [A Loteria](https://amzn.to/3i8gPH0)
+
+M. Rickert — [The Little Witch](https://www.tor.com/2020/10/28/the-little-witch-m-rickert/)
+
+*Romances e Novelas:*
+
+Octavia E. Butler — [Despertar](https://amzn.to/3AXz7Dr)
+
+Algernon Black — [The Willows](https://amzn.to/2VybS2F)
+
+Haruki Murakami — [1Q84](https://amzn.to/3B1b5HJ)
+
+Haruki Murakami — [Após o anoitecer](https://amzn.to/3k8BjSO)
+
+Yoko Ogawa — [A Polícia da Memória](https://amzn.to/2U4woaR)
+
+Karin Boye — [Kallocaína: Romance do Século XXI](https://amzn.to/3kdfOQJ)
+
+Philip Pullman — [Fronteiras do Universo](https://amzn.to/3i3ywrd)
+
+Kij Johnson — [The Dream-Quest of Vellitt Boe](https://amzn.to/2TbLhb0)
+
+Terry Pratchett — Discworld (especialmente a saga das Bruxas)
+
+Shirley Jackson — [Sempre Vivemos no Castelo](https://amzn.to/3kepieE)
+
+Outras mídias:
+
+Shaun Tan — [A Chegada](https://amzn.to/2T8e5kF) 
+
+(HQ)Becca De La Rosa e Mabel Martin - [Mabel](https://mabelpodcast.com/) (Podcast, inglês)
+
+
+
+## VANESSA GUEDES <a name="vanessa"></a>
+
+Textos que me provocam uma fisgada no estômago: parece que uma pessoa de verdade rasgou a tela do computador à agulha e bordou a palavra com habilidade e precisão de quem sabe o que está fazendo. Gosto quando o texto se ajusta macio à trama para retratar um cenário belo (famosa dupla “forma & conteúdo”), ou mesmo melancólico, daqueles que embolam a garganta. Quero que a ficção dê nome para o que eu sinto e não consigo descrever. Quero que a ficção me faça pensar e sentir coisas que nunca pensei ou senti na minha mente, no meu corpo.
+
+Vícios travestidos de monstros, inseguranças disfarçadas de fadas, pequenas magias com grandes propósitos e tecnologias com personalidade são meus pontos fracos como editora (e seus pontos fortes como autor). Assombrações que andam de mãos dadas com personagens pela narração me chamam atenção, assim como a exposição daquelas vontades que todo mundo tem, mas quase ninguém fala. 
+
+**De um modo prático, o que eu procuro numa narrativa em avaliação:**
+
+- Mudança (interna ou externa) no protagonista entre o início e o final;
+- Conflitos sobre como o mundo externo pode oprimir a individualidade;
+- A descrição de lugares ou personagens como ferramenta narrativa;
+- O uso do estilo sem ser confundido com verborragia e rebuscamento sem propósito.
+
+**O que eu adoraria ver numa história especulativa:**
+
+- Debate sobre especismo;
+- Uso de gênero neutro na linguagem;
+- Mundo alternativo que desafia as normas sociais do nosso mundo ‘real’;
+- Não-monogamia;
+- Tecnologia e magia juntas.
+
+### Referências:
+
+Clive Barker — Blues do Sangue de Porco (conto)
+
+Isabor Quintiere — Filhos de Asher (conto)
+
+Max Beerbohm — Enoch Soames (conto)
+
+Teresa P. Mira de Echeverría — À Sua Imagem (conto)
+
+Thomas Olde Heuvelt — Hex (romance)
+
+Me surpreenda.
+
+ ## NATALLE MOURA <a name="natalle"></a>
+
+Tópicos que me fazem ler avidamente/double take:Histórias com elementos de um bom romance entre as personagens. Amo histórias fofinhas; emoções bem desenvolvidas; todo o tipo de amor; histórias para se sentir bem e ter fé na humanidade.Histórias de criador e criatura.Piratas! Amo distorções que vão além de navios e caribe, também.
+
+Fantástico. Aquela porta entre o café da rua 20 e o Banco do Brasil estava ali ontem? O Tempo sempre esteve contra você ou ele só tem birra do que aconteceu naquele dia?Contos com uma puxada de tapete/reviravolta – pelamor, tem que fazer sentido e, se não tiver sentido, a ausência dele tem que ser trabalhada também.Histórias de ficção científica em geral. Tecnologia, futuro e variações, alterações de lugares-comuns, tópicos que envolvam a linguagem.
+
+Contos com narradores e/ou personagens incomuns.Contos de horror/terror que não recorram à violência sexual ou gore gratuito.
+
+### Referências
+
+*Contos*
+
+Marina Colasanti
+
+Lygia Fagundes Telles
+
+Clarice Lispector
+
+Machado de Assis
+
+Lima Barreto
+
+Álvares de Azevedo
+
+Edgar Allan Poe
+
+Jorge Luis Borges
+
+Neil Gaiman
+
+Julio Cortázar
+
+*Romances*
+
+Marina Colasanti
+
+Lygia Fagundes Telles
+
+Clarice Lispector
+
+Graciliano Ramos
+
+Aline Valek
+
+Eric Novello
+
+Nnedi Okorafor
+
+Marie Brennan
+
+Joseph DelaneyJane Austen
+
+Victor Hugo
+
+George Orwell
+
+Neil Gaiman
+
+Philip Pullman
+
+J. R. R. Tolkien
+
+Mary Shelley
+
+Stephen King
+
+Julio Cortázar
+
+
+## LUCAS RAFAEL FERRAZ <a name="lucas"></a>
+
+Gosto de histórias que tragam personagens à vida através de conflitos tão reais que seja impossível não acreditar neles. Pelo que essa pessoa (ou alien, ou dragão, ou objeto inanimado) passou? O que a motiva e onde ela quer chegar? Você pode pintar uma batalha em volta de mim e me fazer sentir dentro da ação, ou me colocar no meio de um mundo novo, com cronologia, língua e continentes próprios, todos cuidadosamente criados, e eu vou achar tudo isso vazio e sem graça se eu não entender o que move os personagens e não sentir que há coerência em suas jornadas.
+
+Narrativas que me instigam também não entregam tudo de mão beijada. Aquele longo parágrafo ou dois explicando algum conceito criado por você interessa apenas para o seu processo de worldbuilding, não para mim. Me entregue as coisas devagar, até casualmente, através de diálogos e breves exposições. Me deixe entender devagar, deduzindo pelo contexto. Se você sente que não é possível fazer isso, então talvez essa história não caiba nesse tamanho ou formato.Faça tudo isso usando um cenário de fantasia urbana ou uma ficção científica de futuro próximo, e você terá minha total atenção. Melhor ainda: misture os dois e me deixe em dúvida sobre o gênero da sua história.
+
+**O que eu gostaria de ler:**
+
+- Histórias esperançosas;
+
+- Jornadas espaciais;
+- Histórias sem um único protagonista, mas que foquem num grupo e nas relações entre eles;
+- Histórias que lidem com a memória;
+- Histórias em que coisas fantásticas acontecem, sem explicação, na vida de pessoas normais;
+- Histórias contadas sob pontos de vista inesperados ou recortes temporais não-lineares.
+
+**Referências**
+
+Neil Gaiman — Neverwhere, Trigger Warning (coletânea de contos)
+
+Michel Peres — Hiperhelix (coletânea de contos)
+
+Aline Valek — Cidades afundam em dias normais
+
+Daniel Keyes — Flores para Algernon
+
+Ana Rusche — A telepatia são os outros
+
+Lady Sybylla — Deixe as estrelas falarem
+
+Santiago Santos — Na eternidade sempre é domingo
+
+Rodrigo Van Kampen — Trabalho honesto
+
+Thiago d’Evecque — Limbo
+
+Becky Chambers — The Long Way To a Small, Angry Planet
+
+Concepción Perea — La corte de los espejos
+
+Joca Terron — A tristeza extraordinária do leopardo-das-neves
+
+Priscilla Matsumoto — O infinito no meio
