@@ -37,6 +37,8 @@ Nossa seleção de contos é **anônima**, de forma a assegurar maior imparciali
 - **PARA CONTOS EM PORTUGUÊS:**Os contos enviados em português **não** precisam ser inéditos, podendo a história já ter sido publicada **em revistas, antologias, coletâneas e de forma independente em qualquer meio**, desde que essa publicação não tenha sido na língua inglesa e que o autor detenha os direitos de reprodução do texto.
 - **PARA CONTOS EM INGLÊS:**Contos escritos e enviados diretamente em língua inglesa **devem** ser inéditos, nunca tendo sido publicados em nenhum formato.Também aceitamos contos previamente traduzidos, e estes devem ser **igualmente inéditos** em língua inglesa;A pessoa responsável pela tradução deve estar de acordo com a publicação da sua versão na revista.
 
+
+
 ### DA INSCRIÇÃO
 
 **A inscrição deve ser feita através **do formulário que será disponibilizado entre os dias 2 e 16 de agosto neste edital**, que deve ser preenchido integralmente (com exceção dos campos opcionais);**
@@ -66,13 +68,15 @@ O que não aceitamos:
 - Contos que façam apologia ao racismo, capacitismo, misoginia, fascismo, xenofobia ou qualquer tipo de preconceito.
 - Não publicamos fragmentos de obras maiores (novelas, romances), apenas histórias contidas em si. Seu conto pode se passar em um universo maior, mas deve ser compreensível como uma obra individual.
 
+
+
 ### Direitos autorais
 
 A Eita! Magazine adquire os direitos exclusivos de reprodução do conto **em inglês e português** pelo período de quatro meses. Após esse período, a revista perde a exclusividade do conto, mas mantém o direito de publicar, republicar e disponibilizar o texto da forma que achar mais adequada **por um ano**. 
 
 Findado o ano de direitos de reprodução do conto, a história ficará disponível apenas nos arquivos online da revista.A revista retém o direito de utilizar trechos de até quatro linhas dos contos para divulgação, bem como a imagem do autor.
 
-**Pagamentos de direitos autorais**
+** Pagamentos de direitos autorais **
 
 O pagamento de direitos autorais se dará em uma única parcela, que será equivalente ao valor descrito na campanha de arrecadação de fundos para publicação no site Catarse, e a 100% do valor arrecadado no Patreon, subtraídos as devidas taxas de transferência do valor (taxa administrativa da plataforma, PayPal, conversão, etc) dividido igualmente entre os quatro autores selecionados, independente do tamanho do conto publicado. 
 
