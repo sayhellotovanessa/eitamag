@@ -77,7 +77,7 @@ A Eita! Magazine adquire os direitos exclusivos de reprodução do conto **em in
 
 Findado o ano de direitos de reprodução do conto, a história ficará disponível apenas nos arquivos online da revista.A revista retém o direito de utilizar trechos de até quatro linhas dos contos para divulgação, bem como a imagem do autor.
 
-** Pagamentos de direitos autorais **
+#### Pagamentos de direitos autorais
 
 O pagamento de direitos autorais se dará em uma única parcela, que será equivalente ao valor descrito na campanha de arrecadação de fundos para publicação no site Catarse, e a 100% do valor arrecadado no Patreon, subtraídos as devidas taxas de transferência do valor (taxa administrativa da plataforma, PayPal, conversão, etc) dividido igualmente entre os quatro autores selecionados, independente do tamanho do conto publicado. 
 
