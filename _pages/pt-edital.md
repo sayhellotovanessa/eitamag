@@ -53,10 +53,11 @@ Nossa seleção de contos é **anônima**, de forma a assegurar maior imparciali
 
 ### DA INSCRIÇÃO
 
-**A inscrição deve ser feita através **do formulário que será disponibilizado entre os dias 2 e 16 de agosto neste edital**, que deve ser preenchido integralmente (com exceção dos campos opcionais);**
+**A inscrição deve ser feita através do formulário que será disponibilizado entre os dias 2 e 16 de agosto neste edital**, que deve ser preenchido integralmente (com exceção dos campos opcionais);
 
-**O formulário deve ser preenchido com:nome completo/social e e-mail válido;
+**O formulário deve ser preenchido com:** 
 
+- nome completo/social e e-mail válido;
 - uma pequena biografia de até 100 palavras e links para suas redes sociais;o título do conto;
 - um pitch (resumo com spoilers) de até 300 palavras;o número total de palavras do conto (sem contar o título);o conto na íntegra anexado em formato .docx ou .doc seguindo o modelo disponível no ponto 3;
 - uma foto ou ilustração que lhe represente em boa resolução nas dimensões 500x500 pixels anexada.O formulário também pode pedir informações sobre como você se identifica (região do País, gênero e etnia).
