@@ -4,7 +4,7 @@ title:  "[PT] Tema do edital 2021"
 date:   2021-07-27 01:00:01 +0100
 categories: issue
 author: Eita! Team
-excerpt: Confira o tema da revista para o edital 2021
+excerpt: Eita comida boa! O tema do edital 2021 é comida
 featured-image: 
 featured-image-alt: 
 
