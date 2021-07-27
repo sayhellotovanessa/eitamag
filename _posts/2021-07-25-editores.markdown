@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[PT] Preferências dos editores"
+title:  "[PT] Cabine dos Editores: o que queremos?"
 date:   2021-07-25 01:00:01 +0100
 categories: issue
 author: Eita! Team
@@ -9,6 +9,14 @@ featured-image:
 featured-image-alt: 
 
 ---
+
+Os editores da Eita! costumam trabalhar juntos para selecionar os textos que compõem a revista. 
+
+Temos critérios fixos para fazer a seleção, mas existem temas que fazem um coração bater mais rápido que outro.
+
+Por isso, cada um dos editores escreveu um pequeno texto, se abrindo um pouco mais suas inspirações e preferências. 
+
+Abaixo, você confere os textos.
 
 # Nossos editores
 1. [André Colabelli](#andre)
