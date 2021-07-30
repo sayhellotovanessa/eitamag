@@ -87,16 +87,23 @@ body
   display: flex
   font-family: $titles-font
   justify-content: space-between
-
-  margin-left: -$spacing-unit / 2
   text-align: center
+  padding: 0px 20px
 
   @extend %clearfix
+  .footer-col-1
+    flex-grow: 1
 
   .footer-col-2
+    flex-grow: 2
+    display: flex
+    flex-direction: column
+    align-items: center
     p
       max-width: 300px
 
+  .footer-col-3
+    flex-grow: 1
 
 +media-query($on-laptop)
   .footer-col-1,
