@@ -63,6 +63,9 @@ body
     color: #f00
 
 
+
+// Footer 
+  
 .site-footer
   background: $footer-bg
   border-top: 1px solid $grey-color-light
@@ -87,18 +90,28 @@ body
   display: flex
   font-family: $titles-font
   justify-content: space-between
-
-  margin-left: -$spacing-unit / 2
   text-align: center
+  padding: 0px 20px
 
   @extend %clearfix
+  .footer-col-1
+    flex-grow: 1
 
   .footer-col-2
+    flex-grow: 2
+    display: flex
+    flex-direction: column
+    align-items: center
     p
       max-width: 300px
 
+  .footer-col-3
+    flex-grow: 1
 
 +media-query($on-laptop)
+  .footer-col-wrapper
+    padding: 0
+    
   .footer-col-1,
   .footer-col-2
     width: -webkit-calc(50% - (#{$spacing-unit} / 2))
@@ -151,7 +164,7 @@ body
   text-shadow: 1px 1px 2px #ef0f38
 
   +media-query($on-palm)
-    +relative-font-size(2)
+    +relative-font-size(1.5)
     margin-top: 20px
 
 .section-title
@@ -237,4 +250,12 @@ body
 
   ul
     margin-bottom: 0
+
+// RSS element
+
+.rss-subscribe
+  color: $pure-white
+  a
+    color: $pure-white
+    font-weight: bold
 
