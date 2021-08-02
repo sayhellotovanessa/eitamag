@@ -33,9 +33,12 @@ Contos em português podem já ter sido publicados em revistas, antologias ou de
 
 ### Quem pode participar?
 
-Poderão participar pessoas que:Sejam brasileiras, naturalizadas brasileiras ou residam no País há mais de 10 anos;
+Poderão participar pessoas que: 
+- Sejam brasileiras, naturalizadas brasileiras ou residam no País há mais de 10 anos;
 
-Escrevam em língua portuguesa ou inglesa;Sejam maiores de 18 anos;Tenham disponibilidade para enviar o material no formato especificado.
+- Escrevam em língua portuguesa ou inglesa;
+- Sejam maiores de 18 anos;
+- Tenham disponibilidade para enviar o material no formato especificado.
 
 **Atenção:** Autores que tenham sido publicados em uma edição anterior da Eita! não poderão participar nas duas edições seguintes à sua publicação.
 
@@ -52,13 +55,13 @@ Nossa seleção de contos é **anônima**, de forma a assegurar maior imparciali
 - Usar **obrigatoriamente** o modelo fornecido [neste link](/assets/docs/Modelo-Padrao-de-Submissao-Rodrigo-van-Kampen-v1-ANÔNIMO.docx). 
 - Estar em formato .doc ou .docx e seguir o seguinte formato para o título do documento: **[Submissão Eita! Mag] Título do conto**;Incluir **apenas** o título do conto (**sem autoria**) no início do documento, centralizado.
 - **PARA CONTOS EM PORTUGUÊS:** Os contos enviados em português **não** precisam ser inéditos, podendo a história já ter sido publicada **em revistas, antologias, coletâneas e de forma independente em qualquer meio**, desde que essa publicação não tenha sido na língua inglesa e que o autor detenha os direitos de reprodução do texto.
-- **PARA CONTOS EM INGLÊS:**Contos escritos e enviados diretamente em língua inglesa **devem** ser inéditos, nunca tendo sido publicados em nenhum formato.Também aceitamos contos previamente traduzidos, e estes devem ser **igualmente inéditos** em língua inglesa;A pessoa responsável pela tradução deve estar de acordo com a publicação da sua versão na revista.
+- **PARA CONTOS EM INGLÊS:** Contos escritos e enviados diretamente em língua inglesa **devem** ser inéditos, nunca tendo sido publicados em nenhum formato.Também aceitamos contos previamente traduzidos, e estes devem ser **igualmente inéditos** em língua inglesa;A pessoa responsável pela tradução deve estar de acordo com a publicação da sua versão na revista.
 <br/>
 <br/>
 
 ### DA INSCRIÇÃO
 
-**A inscrição deve ser feita através do formulário que será disponibilizado entre os dias 2 e 16 de agosto neste edital**, que deve ser preenchido integralmente (com exceção dos campos opcionais);
+**A inscrição deve ser feita através [deste formulário](https://airtable.com/shroFlu7ALMrw8xSx) que está disponibilizado entre os dias 2 e 16 de agosto neste edital**, que deve ser preenchido integralmente (com exceção dos campos opcionais);
 
 **O formulário deve ser preenchido com:** 
 
@@ -66,6 +69,8 @@ Nossa seleção de contos é **anônima**, de forma a assegurar maior imparciali
 - uma pequena biografia de até 100 palavras e links para suas redes sociais;o título do conto;
 - um pitch (resumo com spoilers) de até 300 palavras;o número total de palavras do conto (sem contar o título);o conto na íntegra anexado em formato .docx ou .doc seguindo o modelo disponível no ponto 3;
 - uma foto ou ilustração que lhe represente em boa resolução nas dimensões 500x500 pixels anexada.O formulário também pode pedir informações sobre como você se identifica (região do País, gênero e etnia).
+
+[Clique aqui para acessar o formulário de envio.](https://airtable.com/shroFlu7ALMrw8xSx)
 
 Essa seção é **completamente opcional**, e está ali para podermos analisar internamente nosso alcance e diversidade, bem como para divulgação nas redes sociais depois do fechamento do edital.A decisão dos editores é soberana e inquestionável. Ao enviar seu conto, você concorda em participar do processo de edição do material, que pode exigir alterações no texto para que ele seja publicado. Caso não haja concordância quanto a esse processo, o conto pode ser removido e outre autore será selecionade em seu lugar seguindo os mesmos critérios.Inscrições que não sigam as disposições deste edital **não** serão validadas. As inscrições são gratuitas e válidas para apenas **um texto por autore**, seja em língua inglesa ou portuguesa. No caso de contos enviados diretamente em inglês, **não serão aceitos** envios simultâneos para outras revistas de língua inglesa.
 
