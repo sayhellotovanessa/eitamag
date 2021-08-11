@@ -57,3 +57,6 @@ Para ajudar um pouco, criamos uma sessão aqui no site onde os nossos editores e
 
 Leia o [nosso edital](https://www.eitamagazine.com/pt-br/edital/) atentamente antes de enviar a sua história.
 
+Entenda [aqui sobre nosso processo de seleção](/pt-br/processo-selecao/).
+
+
