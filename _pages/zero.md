@@ -11,7 +11,7 @@ Contents:
 
 **Editor's Note**  
 
-**[Foreword]**, by Rachel Cordasco  
+**Foreword**, by Rachel Cordasco  
 
 **[The Prokaryotes Serenade](/stories/2021/04/02/prokaryotes.html)**, by Isabor Quintiere   
 
