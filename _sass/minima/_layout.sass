@@ -26,6 +26,37 @@ body
     top: 0
     transform: none
 
+.post-list-stories
+  background-color: $pure-white
+  margin-top: 20px
+  padding: 40px
+  text-align: left
+
+  &-img 
+    margin-bottom: 10px
+    img 
+      filter: saturate(0.9) contrast(2.4) sepia(0.7) brightness(0.6) hue-rotate(143deg)
+      height: 200px
+      object-fit: cover
+      width: 320px
+
+      &:hover
+        filter: none
+
+  li h3
+    a
+      -webkit-box-orient: vertical
+      -webkit-line-clamp: 2
+      color: $monstera-green
+      display: -webkit-box
+      line-clamp: 2
+      line-height: 2rem
+      overflow: hidden
+      text-overflow: ellipsis
+
+    p
+      color: $light-text
+
 
 .fixed-top
   background: $top-nav-bg
