@@ -11,17 +11,17 @@ Contents:
 
 **Editor's Note**  
 
-**Foreword**, by Rachel Cordasco  
+**[Foreword]**, by Rachel Cordasco  
 
-**The Prokaryotes Serenade**, by Isabor Quintiere   
+**[The Prokaryotes Serenade](/stories/2021/04/02/prokaryotes.html)**, by Isabor Quintiere   
 
-**Arrows in the air**, by Miguel Dracul
+**[Arrows in the air](/stories/2021/04/02/arrows.html)**, by Miguel Dracul
 
-**BURN.IN**, by Laís Dias
+**[BURN.IN](/stories/2021/04/02/burnin.html)**, by Laís Dias
 
-**The Witch Dances**, by Thiago Ambrosio Lage
+**[The Witch Dances](/stories/2021/04/02/witch.html)**, by Thiago Ambrosio Lage
 
-**The Land of Chimeras**, by Machado de Assis  
+**[The Land of Chimeras](/stories/2021/04/02/chimeras.html)**, by Machado de Assis  
 
 Buy Now!  
 [Buy on Amazon!](https://www.amazon.com/Eita-Magazine-Issue-December-2020-ebook/dp/B08R7NQLHF/ref=sr_1_1?dchild=1&keywords=eita%21+magazine&qid=1617541515&sr=8-1)  
