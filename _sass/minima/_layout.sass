@@ -63,9 +63,6 @@ body
     color: #f00
 
 
-
-// Footer 
-  
 .site-footer
   background: $footer-bg
   border-top: 1px solid $grey-color-light
@@ -90,28 +87,18 @@ body
   display: flex
   font-family: $titles-font
   justify-content: space-between
+
+  margin-left: -$spacing-unit / 2
   text-align: center
-  padding: 0px 20px
 
   @extend %clearfix
-  .footer-col-1
-    flex-grow: 1
 
   .footer-col-2
-    flex-grow: 2
-    display: flex
-    flex-direction: column
-    align-items: center
     p
       max-width: 300px
 
-  .footer-col-3
-    flex-grow: 1
 
 +media-query($on-laptop)
-  .footer-col-wrapper
-    padding: 0
-    
   .footer-col-1,
   .footer-col-2
     width: -webkit-calc(50% - (#{$spacing-unit} / 2))
@@ -128,13 +115,9 @@ body
     width: -webkit-calc(100% - (#{$spacing-unit} / 2))
     width: calc(100% - (#{$spacing-unit} / 2))
 
-.footer-newsletter-logo
+.footer-logo
   max-width: 150px
-  padding: 0px
-
-.footer-patreon-logo
-  max-width: 150px
-  padding: 0px
+  padding: 20px
 
 //All pages content
 
@@ -156,7 +139,7 @@ body
   padding: 20px
 
 .post-list-heading
-  +relative-font-size(1.5)
+  +relative-font-size(2)
   color: $light-headings
   letter-spacing: 1px
   line-height: 1.3em
@@ -164,7 +147,7 @@ body
   text-shadow: 1px 1px 2px #ef0f38
 
   +media-query($on-palm)
-    +relative-font-size(1.5)
+    +relative-font-size(2)
     margin-top: 20px
 
 .section-title
@@ -194,10 +177,24 @@ body
 .issues
   display:block
 
-.post-list
+.post-list-stories
+  background-color: $pure-white
+  padding: 40px
   display: grid
   grid-gap: 50px
   grid-template-columns: 40% 40%
+  list-style: none
+  margin-left: 0
+
+  +media-query($on-palm)
+    grid-gap: 10px
+    grid-template-columns: none
+    grid-template-rows: none
+
+.post-list
+  display: grid
+  grid-gap: 50px
+  grid-template-columns: 30% 30% 30%
   list-style: none
   margin-left: 0
 
@@ -229,6 +226,10 @@ body
 .post-content
   margin-bottom: $spacing-unit
 
+  p
+    +media-query($on-palm)
+      text-align: justify
+
   h2
     +relative-font-size(2)
     margin-top: 30px
@@ -251,11 +252,6 @@ body
   ul
     margin-bottom: 0
 
-// RSS element
-
-.rss-subscribe
-  color: $pure-white
-  a
-    color: $pure-white
-    font-weight: bold
-
+.footer-patreon-logo, .footer-newsletter-logo
+  max-width: 150px
+  padding: 0px
