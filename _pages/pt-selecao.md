@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Como funciona o nosso processo de seleção?
-permalink: /pt-br/processo-selecao/
+permalink: /pt-br/selecao/
 parent-page: false
 
 ---
@@ -16,7 +16,9 @@ Essa fase é o que separa os envios válidos dos inválidos, ou seja, aqueles co
 - **Preenchimento correto do formulário:** Se há informações faltando sobre o conto, ou incompletas, ou erradas, o conto não é validado.
 - **Formatação do documento:** Se a pessoa que submeteu o conto usou uma fonte ilegível no documento, manteve seu nome no arquivo do texto ou de outra forma desviou grosseiramente do modelo indicado, o conto é invalidado.
 - **Tema:** Se o conto não seguir a temática proposta, é invalidado.
--** Gênero do conto:** A comparação entre a sinopse e o gênero serve para a gente eliminar textos que não se encaixam na definição de “ficção especulativa”. Para saber mais, leia o texto de apoio sobre esse tema [aqui](https://www.eitamagazine.com/issue/2021/07/27/eita-comida.html).
+- **Gênero do conto:** A comparação entre a sinopse e o gênero serve para a gente eliminar textos que não se encaixam na definição de “ficção especulativa”. Para saber mais, leia o texto de apoio sobre esse tema [aqui](https://www.eitamagazine.com/issue/2021/07/27/eita-comida.html).
+<br/>
+<br/>
 
 #### **Etapa 2: Pilha de Slush**
 O termo vem do inglês: "slush reading" é a leitura que filtra os textos que mais têm a cara do que procuramos dos que não se encaixam nisso. A função do “slush reader” (também chamado “primeiro leitor”) é bem conhecida nas revistas anglófonas. Aqui os autores ainda são todos anônimos, e o slusher vai ler e analisar os pontos fortes e fracos da história, filtrando aqueles contos que não se encaixam na proposta da revista.

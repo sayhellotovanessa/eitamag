@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Prokaryotes Serenade"
-date:   2021-04-02 13:00:00 -0300
+date:   2021-09-05 13:05:00 -0300
 categories: stories
 author: Isabor Quintiere
 excerpt: The Prokaryotes Serenade, by Isabor Quintiere, a look at a very distant future humanity may never witness but is solely responsible for

@@ -1,0 +1,38 @@
+---
+layout: post
+title:  "Foreword"
+date:   2021-09-05 13:06:00 -0300
+categories: stories
+author: Rachel Cordasco
+excerpt: Foreword for Eita! Magazine, Issue 0, by Rachel Cordasco
+
+---
+
+<div style="text-align: right">November, 2020</div>
+<br/>
+
+<span class="dropcap">T</span>he last couple of years have brought Anglo­phone read­ers sev­eral new pub­lic­a­tions that fea­ture spec­u­lat­ive fic­tion in trans­la­tion (SFT) — a trend we hope con­tin­ues. In _Fu­ture Sci­ence Fic­tion Di­gest_, _Sam­o­var_, _Con­stela­ción_, and now _Eita!_, we can read sci­ence fic­tion, fantasy, hor­ror, ma­gical real­ism, weird, and more from cul­tures and lan­guage tra­di­tions not our own, which in turn ex­pands our ima­gin­at­ive ho­ri­zons and en­riches the genre.
+
+_Eita!_, in par­tic­u­lar, of­fers us some­thing we’ve had too little of for too long: SF in trans­la­tion from Brazil. Launched dur­ing the re­cent in­aug­ural Fu­ture­Con, this magazine aims, in its own words, “to be­come a bridge to re­lease na­tional au­thors to the in­ter­na­tional lit­er­ary mar­ket, en­cour­aging con­sump­tion of Brazilian genre lit­er­at­ure by an over­seas audi­ence.” Ac­cord­ing to the web­site’s sub­mis­sions data (beau­ti­fully il­lus­trated by artist Raphael An­drade), the magazine has already re­ceived stor­ies from a vari­ety of sub­genres: al­tern­ate his­tory, weird, hor­ror, fantasy, and sci­ence fic­tion, sent from all over Brazil.
+
+Ac­cord­ing to one fea­ture on Brazilian sci­ence fic­tion and fantasy pub­lished on Tor.com this year, the genre has faced a hard road in Brazil, with only a few pub­lish­ers spe­cial­iz­ing in these kinds of stor­ies and lar­ger pub­lish­ers pro­mot­ing mostly for­eign fic­tion.<sup>[[1]](foreword_notes.xhtml#nota1)</sup> Fur­ther­more, spec­u­lat­ive fic­tion is still seen as a lesser genre by many pub­lish­ers, re­gard­less of the fact that more and more au­thors are writ­ing and win­ning awards for it.
+
+Des­pite these pit­falls, a good amount of Brazilian spec­u­lat­ive fic­tion has traveled bey­ond the na­tion’s bor­ders, reach­ing the Anglo­phone world and open­ing up read­ers’ eyes to a rich tra­di­tion of which they weren’t pre­vi­ously aware.
+
+Sev­eral works of Brazilian SF ap­peared in Eng­lish in the 1980s, namely Stella Carr Riberio’s pre­his­tory nar­rat­ive _San­ba­qui_ and Moacyr Scliar’s nov­els _The Cen­taur in the Garden_ (trans­lated by Neves)_, The One-Man Army, The Gods of Raquel, The Strange Na­tion of Ra­fael Mendes,_ and the col­lec­tion _The Bal­lad of the False Mes­siah_ (all tr. Gi­ac­omelli). Fo­cus­ing on the real­ity of the Jew­ish di­a­spora in Brazil, Scliar’s books and stor­ies re­flect, through a unique blend of ma­gical real­ism and Jew­ish hu­mor, the double-iden­tity of Jews main­tain­ing re­li­gious tra­di­tions in their homes and par­ti­cip­at­ing in the wider Brazilian cul­ture. _The Cen­taur in the Garden_, in par­tic­u­lar, fea­tures a cen­taur born to Rus­sian par­ents and raised Jew­ish in Brazil who must find his iden­tity among the mul­tiple paths avail­able to him.
+
+Also trans­lated in the 1980s was Ig­ná­cio de Loy­ola Brandão’s _Zero_ and _And Still the Earth_ (both tr. Wat­son), both dysto­pian nov­els fea­tur­ing prot­ag­on­ists who must nav­ig­ate life un­der the thumbs of op­press­ive re­gimes and wide­spread cor­rup­tion. Brazilian SF au­thor An­dre Carneiro’s “A Per­fect Mar­riage” (tr. Ran­dolph) about a doomed com­puter-ar­ranged mar­riage, was in­cluded in _The Pen­guin World Om­ni­bus of Sci­ence Fic­tion_ in 1986.
+
+But what have Anglo­phone read­ers had ac­cess to from Brazil re­cently? Just two years ago, Ger­son Lodi-Ribeiro ed­ited and Fa­bio Fernandes trans­lated the stor­ies in _Sol­arpunk: Eco­lo­gical and Fant­ast­ical Stor­ies in a Sus­tain­able World_ (World Weaver Press). A mix of spec­u­lat­ive fic­tion from Brazil and Por­tugal, this an­tho­logy ex­plored what it might mean for hu­mans to live truly sus­tain­able lives. Cel­eb­rat­ing the be­ne­fits and un­flinch­ingly de­tail­ing the down­sides of this scen­ario — au­thors such as Ant­o­nio Luiz M. C. Costa, Lodi-Ribeiro, Roberta Spind­ler, and oth­ers  — ima­gine, among other things, hu­mans us­ing the sun as a form of photonu­tri­tion, cor­por­a­tions ex­ploit­ing the pub­lic with the prom­ise of sus­tain­able tech­no­lo­gies, and the syn­thesis of hu­mans and plants.
+
+Fernandes (au­thor, ed­itor, and Por­tuguese-to-Eng­lish trans­lator) and Lodi-Ribeiro (au­thor ad an­tho­lo­gist) have them­selves found audi­ences in the Anglo­phone world, with Fernandes’s _Love: An Ar­chae­ology_ com­ing out next year from Luna Press Pub­lish­ing and Lodi-Ribeiro pla­cing stor­ies in _Inter Nova_ and _Words Without Bor­ders_. _Love: An Ar­chae­ology_, Fernandes’s first col­lec­tion in Eng­lish, fea­tures stor­ies that range the gamut of spec­u­lat­ive fic­tion, but all fo­cus on “love and its mal­con­tents.” This an­tho­logy prom­ises to be an ex­cit­ing ad­di­tion to SFT from Brazil.
+
+Other re­cent short works of SFT from Brazil come to us thanks to au­thor and trans­lator Chris­topher Kastens­midt. His trans­la­tions of Bron­tops Baruq Bron­tops, Cam­ila Fernandes, and Fla­vio Medeiros have ap­peared in _In­ter­galactic Medi­cine Show_, while his trans­la­tion of Cir­ilo Lemos’s “Act of Ex­term­in­a­tion” (a mix of as­sas­sins, tele­pathy, diesel mechs, and more set in an al­tern­ate early-20th-cen­tury Brazil), ap­peared in _The Mam­moth Book of Dies­elpunk_ (2015).
+
+Most re­cently, _Words Without Bor­ders_ and _Sam­o­var Magazine_ have fea­tured Brazilian SFT by Luiz Car­los Lis­boa, Mario Sabino, and H. Pueyo. Both Lis­boa and Sabino, trans­lated by Clif­ford E. Landers, ex­plore death and the un­canny, while in “Sali­gia,” Pueyo ima­gines the gen­er­a­tional fall-out from the trans­gres­sions of an up­per-class fam­ily (plus were­wolves!).
+
+These texts have given us just a taste of what to look for­ward to when it comes to Brazilian SFT, and _Eita!_ will bring us a wealth of new, ima­gin­at­ive ma­ter­ial. So let’s cel­eb­rate the birth of this new magazine and sup­port it in its truly laud­able en­deavor.
+
+<br/>
+<div style="text-align: right"><i>Rachel Cor­dasco</i><br/>
+<i><a href="http://www.SFinTranslation.com">SFinTranslation.com</a></i></div>

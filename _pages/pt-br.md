@@ -8,6 +8,7 @@ highlight-link: true
 type: parent-page
 subpages: 
     - edital
+    - selecao
     - envie
     - sobre
 ---

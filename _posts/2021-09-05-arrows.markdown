@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Arrows in the air"
-date:   2021-04-02 13:01:00 -0300
+date:   2021-09-05 13:04:00 -0300
 categories: stories
 author: Miguel Dracul
 excerpt: Arrows in the air, by Miguel Dracul, a story about not wanting to be struck by Cupid's arrow, and doing something about it

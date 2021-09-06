@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "BURN.IN"
-date:   2021-04-02 13:02:00 -0300
+date:   2021-09-05 13:03:00 -0300
 categories: stories
 author: Laís Dias
 excerpt: BURN.IN, by Laís Dias de Sousa, a look at a dark future in which water and hope are both scarce, and a couple that manages to dredge up both
