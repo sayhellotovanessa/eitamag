@@ -13,10 +13,10 @@ subpages:
 
 All issues of Eita! will be listed here!
 
-### Issue 0
+### **[Issue 0](/issues/zero/)**   
 
 No. 0, Dec. 2020
 
-### Issue 1
+### **[Issue 1](/issues/one/)**
 
  No. 1, Jun. 2021
