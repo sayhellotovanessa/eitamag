@@ -6,6 +6,8 @@
 .post-page
   background-color: $light-bg
   padding: 40px
+  +media-query($on-palm)
+    padding: 10px
   p
     color: $dark-text
   +media-query($on-palm)
@@ -40,8 +42,6 @@
 
 //  Team page style
 .team
-  display: flex
-  flex-direction: row
   &-content
     display: flex
     flex-direction: row
@@ -49,14 +49,15 @@
     justify-content: space-between
     p
       max-width: 300px
+    .member
+      padding: 20px
+      +media-query($on-palm)
+        padding: 0px
+      img
+        max-width: 300px
+        max-height: 300px
+        object-fit:cover
     
-.member
-  padding: 20px
-  +media-query($on-palm)
-    padding: 0px
-  img
-    max-width: 300px
-    max-height: 300px
-    object-fit:cover
+
 
       
