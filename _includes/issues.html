@@ -1,39 +1,15 @@
 <h4 class="section-title-right">Issues</h4>       
 <ul class="issues">
-  {%- for content in site.contents -%}
-    {% if content.category contains "issues" %}
-      <div class="current-issue-cover-img">
-        {%- if content.featured-image -%}
-          <img src="{{ content.featured-image | relative_url }}" alt=" {{ content.featured-image-alt | escape }}">
-        {%- endif -%}
-      </div>
-      <br/>
-      <h3>
-        <a class="post-link" href="{{ content.current-issue-main-post | relative_url }}">
-          {{ content.title | escape }}
-        </a>
-      </h3>
-      <h4>{{ content.info }}</h4>
-      <div class="current-issue-excerpt">
-        {{ content.excerpt }}
-      </div>
-      <br/>
-      <div>
-        {{ content.content }}
-        {% assign i = 0 %}
-        <br/>
-        {%- for previous-issues in content.previous-issues -%}
-          <h3>
-            <a class="post-link" href="{{ previous-issues | relative_url }}">
-              {% assign prev-issue = 'Issue #' | append: i | append: escape %}
-              {{ prev-issue }}
-            </a>  
-          </h3>   
-          <h4>No. 0, Dec. 2020</h4>       
-          {% assign i = i | plus:1 %}
-        {%- endfor -%}
-      </div>
-    {% endif %}
-    {% break %}
-  {%- endfor -%}
+  <h4>Current issue: 2</h4>
+  <a target="_blank" href="https://www.amazon.com/Eita-Magazine-Issue-January-2022-ebook/dp/B09R4YZGWC/ref=sr_1_3?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2QCMLZGMMM8NM&keywords=eita+magazine&qid=1643667737&sprefix=eita+magazine%2Caps%2C263&sr=8-3">
+    <img src="/assets/issues-img/eita2.png">
+  </a>
+  Our third issue was released in January, 2022. | 
+  <a target="_blank" href="https://www.amazon.com/Eita-Magazine-Issue-January-2022-ebook/dp/B09R4YZGWC/ref=sr_1_3?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2QCMLZGMMM8NM&keywords=eita+magazine&qid=1643667737&sprefix=eita+magazine%2Caps%2C263&sr=8-3">
+    Amazon
+  </a> 
+  
+  <h5 style="margin-top:30px">Why number 2 for the third issue?</h5>
+  <p>Because the our first issue was numbered zero.</p>
+  
 </ul>              
