@@ -23,8 +23,6 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-
-
 # Google Analytics
 google_analytics: UA-98488692-4
 
@@ -34,6 +32,9 @@ collections:
 
 include:
   - _pages
+
+collections:
+  - team_members
 
 # Exclude from processing.
 # The following items will not be processed, by default.
