@@ -7,23 +7,23 @@ parent-page: false
 
 ---
 
-# Edital 2021 
+# Edital 2022
 
 
-## Edição 2
+## Edição 3
 
 
-A equipe da Eita! Magazine faz saber que estão abertas, entre os dias 2 a 16 de agosto de 2021, as inscrições para o envio de **contos em língua portuguesa ou inglesa** para a publicação na edição dois de nossa revista.
+A equipe da Eita! Magazine faz saber que estão abertas, entre os dias 8 e 14 de maio de 2022, as inscrições para o envio de **contos em língua portuguesa ou inglesa** para a publicação na edição três de nossa revista.
 
-**O tema desse ano é COMIDA.** 
+**O tema desse ano é CIDADES.** 
 
-**[Confira aqui](/issue/2021/07/27/eita-comida.html) a descrição do tema do edital.**
+**[Confira aqui](/issue/2022/05/03/eita-cidades.html) a descrição do tema do edital.**
 
 E [aqui sobre nosso processo de seleção](/pt-br/processo-selecao/).
 
 Somos uma publicação digital independente e totalmente voluntária, cujo objetivo é disseminar a literatura fantástica brasileira para além das fronteiras do País, através de publicação em língua inglesa de autores brasileiros ou radicados no Brasil. Dentro desse escopo, nosso objetivo é selecionar, editar e publicar digitalmente diversos subgêneros da literatura fantástica, passando pela ficção científica, fantasia e horror.
 
-Para nossa primeira edição, teremos **quatro** textos selecionados através deste edital, **sendo três escritos originalmente em português e um escrito em inglês.** Todos os textos aceitos serão submetidos à preparação e revisão, e os contos em português serão versados para o inglês por nossa equipe de tradutores.
+Para nossa terceira edição, teremos **quatro** textos selecionados através deste edital, **sendo três escritos originalmente em português e um escrito em inglês.** Todos os textos aceitos serão submetidos à preparação e revisão, e os contos em português serão versados para o inglês por nossa equipe de tradutores.
 
 O conto em inglês, será vertido para o português.
 
@@ -46,6 +46,7 @@ Poderão participar pessoas que:
 
 Também aceitamos contos de brasileiros expatriados, que não moram mais no Brasil ou que estão temporariamente no exterior.
 
+
 ### Como enviar o conto?
 
 Nossa seleção de contos é **anônima**, de forma a assegurar maior imparcialidade ao processo de escolha. Dessa forma, o documento anexado contendo o texto a ser analisado **não** deve conter nenhuma forma de identificação de sua autoria, seja através de nome, pseudônimo ou código. **O único lugar onde seu nome de autore deve constar é no formulário de inscrição dos envios**. Caso haja alguma assinatura dentro do documento de texto, **sua inscrição será automaticamente invalidada. 
@@ -54,16 +55,18 @@ Nossa seleção de contos é **anônima**, de forma a assegurar maior imparciali
 
 - Ser em prosa e ter entre 300 e 3.000 palavras;
 - Estar dentro do gênero de ficção fantástica;
-- Usar **obrigatoriamente** o modelo fornecido [neste link](/assets/docs/Modelo-Padrao-de-Submissao-Rodrigo-van-Kampen-v1-ANÔNIMO.docx). 
-- Estar em formato .doc ou .docx e seguir o seguinte formato para o título do documento: **[Submissão Eita! Mag] Título do conto**;Incluir **apenas** o título do conto (**sem autoria**) no início do documento, centralizado.
+- Usar **obrigatoriamente** o modelo fornecido [neste link](https://www.google.com/url?q=https://www.eitamagazine.com/assets/docs/Modelo-Padrao-de-Submissao-Rodrigo-van-Kampen-v1-AN%25C3%2594NIMO.docx&sa=D&source=docs&ust=1651596904189159&usg=AOvVaw0IpKLh-DAJZpqhrYpp_IOX). 
+- Estar em formato .doc ou .docx e seguir o seguinte formato para o título do documento: **[Submissão Eita! Mag] Título do conto**;
+- Incluir **apenas** o título do conto (**sem autoria**) no início do documento, centralizado.
 - **PARA CONTOS EM PORTUGUÊS:** Os contos enviados em português **não** precisam ser inéditos, podendo a história já ter sido publicada **em revistas, antologias, coletâneas e de forma independente em qualquer meio**, desde que essa publicação não tenha sido na língua inglesa e que o autor detenha os direitos de reprodução do texto.
 - **PARA CONTOS EM INGLÊS:** Contos escritos e enviados diretamente em língua inglesa **devem** ser inéditos, nunca tendo sido publicados em nenhum formato.Também aceitamos contos previamente traduzidos, e estes devem ser **igualmente inéditos** em língua inglesa;A pessoa responsável pela tradução deve estar de acordo com a publicação da sua versão na revista.
+
 <br/>
 <br/>
 
 ### DA INSCRIÇÃO
 
-**A inscrição deve ser feita através [deste formulário](https://airtable.com/shroFlu7ALMrw8xSx) que está disponibilizado entre os dias 2 e 16 de agosto neste edital**, que deve ser preenchido integralmente (com exceção dos campos opcionais);
+**A inscrição deve ser feita através [deste formulário](https://#) que está disponibilizado entre os dias 8 e 14 de maio neste edital**, que deve ser preenchido integralmente (com exceção dos campos opcionais);
 
 **O formulário deve ser preenchido com:** 
 
@@ -72,7 +75,7 @@ Nossa seleção de contos é **anônima**, de forma a assegurar maior imparciali
 - um pitch (resumo com spoilers) de até 300 palavras;o número total de palavras do conto (sem contar o título);o conto na íntegra anexado em formato .docx ou .doc seguindo o modelo disponível no ponto 3;
 - uma foto ou ilustração que lhe represente em boa resolução nas dimensões 500x500 pixels anexada.O formulário também pode pedir informações sobre como você se identifica (região do País, gênero e etnia).
 
-[Clique aqui para acessar o formulário de envio.](https://airtable.com/shroFlu7ALMrw8xSx)
+[Clique aqui para acessar o formulário de envio.](https:/#) (a partir do dia 8 de maio de 2022!)
 
 Essa seção é **completamente opcional**, e está ali para podermos analisar internamente nosso alcance e diversidade, bem como para divulgação nas redes sociais depois do fechamento do edital.A decisão dos editores é soberana e inquestionável. Ao enviar seu conto, você concorda em participar do processo de edição do material, que pode exigir alterações no texto para que ele seja publicado. Caso não haja concordância quanto a esse processo, o conto pode ser removido e outre autore será selecionade em seu lugar seguindo os mesmos critérios.Inscrições que não sigam as disposições deste edital **não** serão validadas. As inscrições são gratuitas e válidas para apenas **um texto por autore**, seja em língua inglesa ou portuguesa. No caso de contos enviados diretamente em inglês, **não serão aceitos** envios simultâneos para outras revistas de língua inglesa.
 
