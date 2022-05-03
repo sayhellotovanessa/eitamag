@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[PT] Tema do edital 2022"
-date:   2021-07-27 01:00:01 +0100
+date:   2022-05-03 08:00:01 +0100
 categories: issue
 author: Eita! Team
 excerpt: Eita cidade! O tema do edital 2022 é cidade
