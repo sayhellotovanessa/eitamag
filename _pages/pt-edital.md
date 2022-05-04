@@ -23,7 +23,7 @@ E [aqui sobre nosso processo de seleção](/pt-br/processo-selecao/).
 
 Somos uma publicação digital independente e totalmente voluntária, cujo objetivo é disseminar a literatura fantástica brasileira para além das fronteiras do País, através de publicação em língua inglesa de autores brasileiros ou radicados no Brasil. Dentro desse escopo, nosso objetivo é selecionar, editar e publicar digitalmente diversos subgêneros da literatura fantástica, passando pela ficção científica, fantasia e horror.
 
-Para nossa terceira edição, teremos **quatro** textos selecionados através deste edital.** Todos os textos aceitos serão submetidos à preparação e revisão, e os contos em português serão versados para o inglês por nossa equipe de tradutores.
+Para nossa terceira edição, teremos **quatro** textos selecionados através deste edital. Todos os textos aceitos serão submetidos à preparação e revisão, e os contos em português serão versados para o inglês por nossa equipe de tradutores.
 
 O conto em inglês, será vertido para o português.
 
