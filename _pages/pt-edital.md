@@ -62,18 +62,19 @@ Nossa seleção de contos é **anônima**, de forma a assegurar maior imparciali
 
 ### DA INSCRIÇÃO
 
-**A inscrição deve ser feita através [deste formulário](https://www.google.com) que está disponibilizado entre os dias 8 e 14 de maio neste edital**, que deve ser preenchido integralmente (com exceção dos campos opcionais);
+**A inscrição deve ser feita através [deste formulário](https://airtable.com/shrJguG69oXLtTPJx) que está disponibilizado entre os dias 8 e 14 de maio neste edital**, que deve ser preenchido integralmente (com exceção dos campos opcionais);
 
 **O formulário deve ser preenchido com:**
 
 - nome completo/social e e-mail válido;
 - uma pequena biografia de até 280 caracteres e links para suas redes sociais;o título do conto;
 - um pitch (resumo com spoilers) de até 300 palavras;o número total de palavras do conto (sem contar o título);o conto na íntegra anexado em formato .docx ou .doc seguindo o modelo disponível no ponto 3;
-- uma foto ou ilustração que lhe represente em boa resolução nas dimensões 500x500 pixels anexada.O formulário também pode pedir informações sobre como você se identifica (região do País, gênero e etnia).
+- uma foto ou ilustração que lhe represente em boa resolução nas dimensões 500x500 pixels anexada.
+- O formulário também pode pedir informações sobre como você se identifica (região do País, gênero e etnia). Essa seção é **completamente opcional**, e está ali para podermos analisar internamente nosso alcance e diversidade, bem como para divulgação nas redes sociais depois do fechamento do edital.
 
-[Clique aqui para acessar o formulário de envio.](https://www.google.com) (a partir do dia 8 de maio de 2022!)
+[Clique aqui para acessar o formulário de envio.](https://airtable.com/shrJguG69oXLtTPJx) (a partir do dia 8 de maio de 2022!)
 
-Essa seção é **completamente opcional**, e está ali para podermos analisar internamente nosso alcance e diversidade, bem como para divulgação nas redes sociais depois do fechamento do edital.A decisão dos editores é soberana e inquestionável. Ao enviar seu conto, você concorda em participar do processo de edição do material, que pode exigir alterações no texto para que ele seja publicado. Caso não haja concordância quanto a esse processo, o conto pode ser removido e outre autore será selecionade em seu lugar seguindo os mesmos critérios.Inscrições que não sigam as disposições deste edital **não** serão validadas. As inscrições são gratuitas e válidas para apenas **um texto por autore**, seja em língua inglesa ou portuguesa. No caso de contos enviados diretamente em inglês, **não serão aceitos** envios simultâneos para outras revistas de língua inglesa.
+A decisão dos editores é soberana e inquestionável. Ao enviar seu conto, você concorda em participar do processo de edição do material, que pode exigir alterações no texto para que ele seja publicado. Caso não haja concordância quanto a esse processo, o conto pode ser removido e outre autore será selecionade em seu lugar seguindo os mesmos critérios.Inscrições que não sigam as disposições deste edital **não** serão validadas. As inscrições são gratuitas e válidas para apenas **um texto por autore**, seja em língua inglesa ou portuguesa. No caso de contos enviados diretamente em inglês, **não serão aceitos** envios simultâneos para outras revistas de língua inglesa.
 
 A Eita! Magazine se resguarda o direito de selecionar contos deste edital para futuras edições da revista. Neste caso, as pessoas selecionadas irão receber um e-mail informando da seleção e de mais detalhes.
 
